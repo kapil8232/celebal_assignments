@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,Designation,City,State,Salary,JoiningDate
+EMP001,Aarav,Sharma,Male,28,IT,Software Engineer,Jaipur,Rajasthan,650000,2021-03-15
+EMP002,Vihaan,Patel,Male,32,Finance,Accountant,Ahmedabad,Gujarat,550000,2019-07-10
+EMP003,Ananya,Singh,Female,27,HR,HR Executive,Lucknow,Uttar Pradesh,480000,2022-01-12
+EMP004,Diya,Verma,Female,30,Marketing,Marketing Manager,Delhi,Delhi,720000,2018-09-05
+EMP005,Arjun,Reddy,Male,35,Sales,Sales Manager,Hyderabad,Telangana,800000,2017-06-20
+EMP006,Isha,Nair,Female,26,IT,QA Engineer,Kochi,Kerala,520000,2023-02-01
+EMP007,Kabir,Mehta,Male,29,Operations,Operations Executive,Mumbai,Maharashtra,600000,2020-11-11
+EMP008,Saanvi,Joshi,Female,31,Finance,Financial Analyst,Pune,Maharashtra,670000,2019-04-22
+EMP009,Aditya,Yadav,Male,24,IT,Developer,Noida,Uttar Pradesh,500000,2023-07-18
+EMP010,Meera,Iyer,Female,33,HR,HR Manager,Chennai,Tamil Nadu,780000,2016-08-09
+EMP011,Rohan,Kapoor,Male,30,Sales,Sales Executive,Chandigarh,Chandigarh,520000,2021-12-15
+EMP012,Priya,Mishra,Female,28,Marketing,Content Specialist,Bhopal,Madhya Pradesh,510000,2022-03-10
+EMP013,Karan,Agarwal,Male,34,IT,Team Lead,Kolkata,West Bengal,950000,2015-05-25
+EMP014,Nisha,Gupta,Female,29,Finance,Auditor,Kanpur,Uttar Pradesh,590000,2020-01-08
+EMP015,Rahul,Jain,Male,36,Operations,Operations Manager,Indore,Madhya Pradesh,850000,2014-10-14
+EMP016,Neha,Chopra,Female,27,IT,System Analyst,Gurugram,Haryana,620000,2021-06-30
+EMP017,Yash,Malhotra,Male,25,Marketing,SEO Executive,Delhi,Delhi,450000,2023-01-16
+EMP018,Pooja,Saxena,Female,32,HR,Talent Acquisition Lead,Jaipur,Rajasthan,700000,2018-12-03
+EMP019,Siddharth,Rao,Male,29,Finance,Tax Consultant,Bengaluru,Karnataka,680000,2020-07-27
+EMP020,Kavya,Pillai,Female,26,Sales,Sales Coordinator,Thiruvananthapuram,Kerala,470000,2022-09-19
+EMP021,Aman,Tiwari,Male,31,IT,DevOps Engineer,Noida,Uttar Pradesh,760000,2019-11-13
+EMP022,Shreya,Dubey,Female,28,Marketing,Brand Executive,Nagpur,Maharashtra,540000,2021-04-05
+EMP023,Vivek,Soni,Male,37,Operations,Supply Chain Manager,Surat,Gujarat,920000,2013-08-21
+EMP024,Ritika,Bansal,Female,30,Finance,Senior Accountant,Ludhiana,Punjab,640000,2018-05-14
+EMP025,Harsh,Vyas,Male,27,IT,Backend Developer,Udaipur,Rajasthan,610000,2022-06-11
+EMP026,Aditi,Seth,Female,25,HR,HR Associate,Delhi,Delhi,430000,2023-08-01
+EMP027,Manav,Khanna,Male,33,Sales,Regional Sales Manager,Mumbai,Maharashtra,890000,2017-09-07
+EMP028,Tanya,Arora,Female,29,Marketing,Digital Marketing Specialist,Gurugram,Haryana,620000,2020-03-16
+EMP029,Nikhil,Deshmukh,Male,28,IT,Frontend Developer,Pune,Maharashtra,640000,2021-05-24
+EMP030,Simran,Kaur,Female,34,Finance,Finance Manager,Amritsar,Punjab,860000,2016-02-18
+EMP031,Akash,Thakur,Male,26,Operations,Logistics Coordinator,Shimla,Himachal Pradesh,480000,2022-10-20
+EMP032,Sneha,Rastogi,Female,31,HR,Learning & Development Lead,Noida,Uttar Pradesh,730000,2018-07-11
+EMP033,Varun,Bhatt,Male,35,IT,Project Manager,Dehradun,Uttarakhand,1050000,2015-12-01
+EMP034,Riya,Menon,Female,27,Sales,Business Development Executive,Kochi,Kerala,500000,2021-09-09
+EMP035,Parth,Gandhi,Male,29,Marketing,Campaign Manager,Ahmedabad,Gujarat,690000,2019-10-15
+EMP036,Ishita,Paul,Female,24,IT,Junior Developer,Kolkata,West Bengal,420000,2023-04-12
+EMP037,Devansh,Srivastava,Male,32,Finance,Risk Analyst,Lucknow,Uttar Pradesh,710000,2018-11-22
+EMP038,Alisha,Thomas,Female,28,Operations,Process Analyst,Chennai,Tamil Nadu,580000,2020-06-18
+EMP039,Rajat,Singhal,Male,30,Sales,Key Account Manager,Delhi,Delhi,770000,2019-02-28
+EMP040,Muskan,Pandey,Female,26,HR,Recruitment Specialist,Bhopal,Madhya Pradesh,490000,2022-08-25
+EMP041,Sachin,Kulkarni,Male,34,IT,Cloud Engineer,Bengaluru,Karnataka,980000,2017-03-13
+EMP042,Anjali,Roy,Female,29,Marketing,Market Research Analyst,Kolkata,West Bengal,560000,2021-01-29	
+EMP043,Rohit,Chawla,Male,31,Finance,Investment Analyst,Mumbai,Maharashtra,830000,2018-04-17
+EMP044,Pallavi,Negi,Female,27,Sales,Sales Executive,Dehradun,Uttarakhand,510000,2022-05-30
+EMP045,Kunal,Bora,Male,36,Operations,Plant Manager,Guwahati,Assam,940000,2014-09-08
+EMP046,Deepika,Raman,Female,33,IT,Solution Architect,Chennai,Tamil Nadu,1200000,2015-07-06
+EMP047,Abhishek,Mondal,Male,28,HR,HR Business Partner,Durgapur,West Bengal,650000,2020-12-14
+EMP048,Shruti,Desai,Female,30,Finance,Compliance Officer,Vadodara,Gujarat,700000,2019-06-03
+EMP049,Mohit,Singh,Male,25,Marketing,Social Media Executive,Jaipur,Rajasthan,440000,2023-03-21
+EMP050,Lavanya,Krishnan,Female,32,IT,Data Scientist,Bengaluru,Karnataka,1150000,2018-01-10

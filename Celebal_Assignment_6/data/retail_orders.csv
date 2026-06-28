@@ -1,0 +1,1101 @@
+order_id,customer_name,gender,age,city,state,order_date,product,category,quantity,unit_price,payment_mode,delivery_status,rating,returned
+1,Connie Boyd,Male,41,Delhi,Delhi,24/11/2023,Phone,Electronics,2,599,,Delivered,-1,False
+2,Daniel Jimenez,Male,30,Delhi,Karnataka,01-17-2023,Laptop,Electronics,-2,599,Crypto,Pending,-1,False
+3,Mark Young,F,41,Jaipur,Delhi,2023-04-23,Headphones,Accessories,0,29999,Cash,Pending,4,False
+4,Richard Smith,M,22,Mumbai,Maharashtra,22/02/2023,Phone,Electronics,-2,29999,UPI,,-1,True
+5,Marcus Wang,Male,150,Mumbai,Karnataka,05-13-2024,Printer,Electronics,3,1499,,Delivered,3,
+6,Brianna Dennis,Male,30,Jaipur,Gujarat,2023-04-27,Monitor,Electronics,3,-500,,Cancelled,4,False
+7,Jose Mitchell,Unknown,22,Bengaluru,Delhi,01/07/2023,Keyboard,Accessories,-2,1499,Card,,8,False
+8,Nathan Marshall,Unknown,22,Delhi,Rajasthan,04-18-2024,Keyboard,Accessories,3,-500,Cash,Delivered,4,
+9,Diana Richardson,Female,-5,Ahmedabad,Gujarat,2024-03-24,Tablet,Electronics,2,29999,Card,Pending,-1,
+10,Tiffany James DDS,F,-5,Mumbai,Delhi,15/05/2023,Printer,Electronics,2,-500,UPI,Delivered,3,True
+11,Shannon Fletcher,M,150,Jaipur,Gujarat,11-18-2023,Mouse,Accessories,0,-500,Crypto,Cancelled,-1,True
+12,Debbie Bailey,F,41,Mumbai,Rajasthan,2023-12-15,Phone,Electronics,3,-500,Card,,3,
+13,John Gross,F,,Delhi,Karnataka,24/03/2024,Monitor,Electronics,1,29999,,Pending,4,False
+14,Jamie Drake,F,150,Jaipur,Karnataka,01-26-2024,Mouse,Accessories,3,-500,UPI,Delivered,5,False
+15,Roger Charles,Female,150,Jaipur,Rajasthan,2023-05-03,Laptop,Electronics,0,599,Crypto,Pending,4,
+16,Brooke Williams,Unknown,150,Bengaluru,Gujarat,01/09/2023,Mouse,Accessories,2,1499,,Cancelled,8,
+17,,M,150,Ahmedabad,Rajasthan,11-29-2023,Tablet,Electronics,2,1499,UPI,Cancelled,3,
+18,Michael Jenkins,F,30,Jaipur,Rajasthan,2023-10-11,Keyboard,Accessories,1,1499,UPI,Delivered,5,True
+19,Pamela Martinez,Unknown,-5,Delhi,Karnataka,21/09/2023,Keyboard,Accessories,2,-500,Card,,,False
+20,Derrick Carson,Male,-5,Mumbai,Gujarat,04-08-2023,Phone,Electronics,0,-500,,Delivered,3,True
+21,Crystal Smith,Male,30,Delhi,Delhi,2023-07-26,Tablet,Electronics,-2,-500,Card,,4,False
+22,Julia Yates,Male,-5,Bengaluru,Rajasthan,25/08/2023,Keyboard,Accessories,1,599,UPI,Pending,4,False
+23,Jose Peterson,Female,-5,Jaipur,Delhi,09-06-2023,Headphones,Accessories,0,599,,Cancelled,8,False
+24,William Smith,Female,30,Mumbai,Delhi,2023-08-05,Headphones,Accessories,1,599,,Cancelled,3,True
+25,Edward Moore,F,150,Delhi,Rajasthan,27/10/2023,Headphones,Accessories,-2,599,Card,Delivered,-1,True
+26,Gary Ramsey,M,,Jaipur,Karnataka,12-12-2023,Keyboard,Accessories,2,599,Crypto,Delivered,8,
+27,Hannah Cherry,Unknown,30,Mumbai,,2023-10-26,Tablet,Electronics,2,29999,,Pending,5,False
+28,Andrew Knight,Male,-5,Bengaluru,Karnataka,11/06/2023,Phone,Electronics,1,599,Crypto,Pending,-1,False
+29,,Male,30,Mumbai,Maharashtra,03-09-2023,Tablet,Electronics,2,-500,Crypto,Cancelled,-1,
+30,Mrs. Brittany Rodriguez,F,41,Jaipur,Delhi,2023-09-28,Laptop,Electronics,3,599,UPI,Pending,5,False
+31,Sarah Chavez,Unknown,30,,Maharashtra,06/11/2023,Keyboard,Accessories,-2,-500,Cash,Delivered,3,
+32,Jessica Evans,Male,22,Mumbai,Delhi,08-05-2023,Monitor,Electronics,3,1499,,,-1,
+33,Andrew Vincent,Male,22,Delhi,Karnataka,2023-08-07,Laptop,Electronics,1,29999,Crypto,Pending,8,True
+34,,Unknown,22,Mumbai,Delhi,22/01/2023,Monitor,Electronics,2,599,Cash,,-1,
+35,Michael Garcia,Female,30,Ahmedabad,Rajasthan,03-21-2023,Keyboard,Accessories,2,29999,,Pending,5,True
+36,Timothy Oliver,M,22,Ahmedabad,Delhi,2024-02-08,Phone,Electronics,2,-500,Cash,Cancelled,4,True
+37,Kelly Evans,M,41,Mumbai,Rajasthan,13/01/2023,,Accessories,3,29999,,,-1,False
+38,John Holt,Male,41,Delhi,Karnataka,04-25-2024,Laptop,Electronics,3,599,UPI,,,False
+39,Kristen Lopez,M,,Bengaluru,Karnataka,2024-01-09,Tablet,Electronics,1,-500,Crypto,Pending,5,True
+40,Jesse Larson,Male,150,Bengaluru,Delhi,29/12/2023,Printer,Electronics,3,-500,UPI,Cancelled,-1,False
+41,Thomas Mason,Unknown,150,Mumbai,Gujarat,12-06-2023,Phone,,3,-500,,Cancelled,-1,True
+42,Angela Anderson,M,30,Bengaluru,Karnataka,2023-04-09,Printer,Electronics,3,-500,Crypto,Delivered,5,False
+43,Timothy Spencer,F,150,Mumbai,Gujarat,18/04/2023,Printer,Electronics,0,-500,,Pending,-1,False
+44,Andrew Hill,Male,41,Bengaluru,Karnataka,02-11-2024,Mouse,Accessories,3,599,Card,Cancelled,4,True
+45,Dennis Mason,Male,30,Ahmedabad,Karnataka,2023-03-17,Laptop,Electronics,1,-500,,Pending,8,False
+46,Karen Allen,Female,22,Jaipur,Gujarat,24/07/2023,Keyboard,Accessories,2,1499,,,3,
+47,Nina Bishop,M,30,Ahmedabad,Karnataka,05-08-2023,Phone,Electronics,-2,29999,,,-1,False
+48,Michelle Webb,M,-5,Mumbai,Delhi,2024-04-04,Mouse,Accessories,3,-500,,Pending,5,False
+49,Brenda Kane,Female,41,Mumbai,Maharashtra,09/02/2023,Monitor,Electronics,-2,599,Card,Pending,4,False
+50,William Larson,Female,22,Ahmedabad,Gujarat,12-22-2023,Mouse,Accessories,3,-500,,Delivered,4,False
+51,,F,-5,Ahmedabad,Rajasthan,2023-07-19,Laptop,Electronics,3,29999,,,-1,
+52,Jamie King,M,,Delhi,Maharashtra,12/01/2024,Keyboard,Accessories,0,-500,UPI,,5,
+53,Cynthia Bass,Female,-5,Delhi,Karnataka,12-14-2023,Printer,Electronics,-2,599,,Delivered,3,
+54,Samuel Anderson,M,30,Jaipur,,2023-08-08,Mouse,Accessories,3,-500,Cash,Pending,8,False
+55,Sara Wilson,Unknown,-5,Mumbai,Rajasthan,22/06/2023,Printer,Electronics,0,599,,Delivered,5,True
+56,Matthew Torres,Male,22,Delhi,Delhi,11-29-2023,Phone,Electronics,1,1499,Card,Pending,8,
+57,Amber Johnson,M,41,Mumbai,Delhi,2023-02-28,Keyboard,Accessories,-2,599,Card,Cancelled,,True
+58,,Unknown,150,Ahmedabad,Gujarat,24/10/2023,Laptop,Electronics,2,599,Crypto,Pending,3,
+59,Elizabeth Velez,F,22,Bengaluru,Rajasthan,01-31-2024,Monitor,Electronics,3,-500,,Cancelled,3,
+60,Robert Carroll,Male,-5,Ahmedabad,Rajasthan,2023-11-28,Tablet,Electronics,0,29999,,,4,False
+61,Amanda Reed,F,150,Ahmedabad,Gujarat,01/04/2023,Monitor,Electronics,0,29999,Cash,Pending,3,False
+62,Adam Smith,Female,-5,,Karnataka,03-27-2024,Headphones,Accessories,-2,-500,Cash,Delivered,8,False
+63,Jason Warren,Female,41,Mumbai,Maharashtra,2023-04-04,Headphones,Accessories,3,29999,Crypto,Delivered,-1,True
+64,James Jones,M,-5,Bengaluru,Delhi,13/02/2023,Keyboard,Accessories,0,-500,,Delivered,3,False
+65,Robert Garza,Female,,Mumbai,Karnataka,04-24-2023,Printer,Electronics,3,-500,Crypto,Cancelled,8,
+66,Miguel West,Unknown,-5,Mumbai,Maharashtra,2023-10-09,Tablet,Electronics,3,1499,UPI,Pending,5,True
+67,Ann Riley,Female,30,Ahmedabad,Maharashtra,16/01/2024,Mouse,Accessories,-2,29999,UPI,Pending,5,True
+68,,Unknown,22,Bengaluru,Delhi,07-04-2023,Mouse,Accessories,3,599,UPI,Cancelled,4,
+69,David Good,Male,22,Bengaluru,Maharashtra,2024-03-20,Headphones,Accessories,0,-500,,Cancelled,4,True
+70,Julie Benitez,Male,22,Ahmedabad,Gujarat,10/05/2023,Headphones,Accessories,1,599,Card,Pending,-1,False
+71,Sabrina Ortiz,Male,150,Ahmedabad,Karnataka,02-13-2023,Keyboard,Accessories,-2,1499,Crypto,,8,False
+72,Angie Vincent,Unknown,150,Bengaluru,Rajasthan,2023-06-02,Printer,Electronics,-2,599,Card,Pending,5,
+73,Katherine Fritz,Female,30,Bengaluru,Rajasthan,11/02/2023,Mouse,Accessories,2,599,,,-1,False
+74,Nathaniel Moody,Female,41,Mumbai,Gujarat,05-30-2023,,Electronics,1,1499,Cash,Pending,8,True
+75,Jeffrey Powell,Female,41,Delhi,Rajasthan,2023-10-06,Keyboard,Accessories,1,1499,Cash,Cancelled,8,True
+76,Deborah White,M,41,Bengaluru,Karnataka,28/08/2023,Monitor,Electronics,0,-500,UPI,Delivered,,False
+77,Christy Howard,F,41,Jaipur,Rajasthan,01-12-2024,Tablet,Electronics,2,599,,Cancelled,-1,True
+78,Heather Singh,M,,Bengaluru,Gujarat,2024-01-26,Mouse,Accessories,3,1499,Crypto,,8,True
+79,Miguel Russell,M,41,Mumbai,Rajasthan,29/08/2023,Tablet,Electronics,2,29999,,,5,
+80,Judy Gonzalez,F,22,Ahmedabad,Rajasthan,04-28-2024,Printer,Electronics,3,29999,Cash,Delivered,8,
+81,Rachel Garcia,F,-5,Ahmedabad,,2024-02-27,Laptop,Electronics,1,1499,Crypto,Cancelled,-1,False
+82,Karen Richardson,Male,30,Mumbai,Karnataka,17/11/2023,Headphones,,2,29999,,,3,True
+83,Brittany Stevens,Female,41,Bengaluru,Rajasthan,05-13-2024,Keyboard,Accessories,-2,-500,UPI,Pending,3,False
+84,Kristen Gray,Female,-5,Mumbai,Karnataka,2024-04-29,Phone,Electronics,3,-500,,,4,False
+85,,M,30,Bengaluru,Karnataka,10/10/2023,Mouse,Accessories,2,599,Cash,,5,
+86,Jeffrey Evans,Unknown,41,Bengaluru,Karnataka,05-17-2023,Laptop,Electronics,0,1499,,,5,False
+87,,M,41,Delhi,Delhi,2023-10-10,Printer,Electronics,-2,-500,Card,,3,False
+88,Austin Clark,M,-5,Delhi,Gujarat,17/01/2024,Headphones,Accessories,1,1499,Crypto,Cancelled,3,False
+89,Jeffrey Lawrence,Male,30,Ahmedabad,Delhi,02-21-2023,Headphones,Accessories,1,-500,Cash,Cancelled,-1,
+90,John Pugh,Unknown,150,Ahmedabad,Maharashtra,2023-07-23,Phone,Electronics,0,599,Crypto,Delivered,4,
+91,Stacy Sutton,Female,,Jaipur,Gujarat,17/12/2023,Monitor,Electronics,1,599,,Pending,5,True
+92,Kathryn Wagner,Male,41,Mumbai,Maharashtra,01-24-2023,Tablet,Electronics,0,1499,Card,,-1,
+93,Jennifer Moore,Female,30,,Rajasthan,2024-02-10,Mouse,Accessories,-2,-500,Crypto,Pending,8,
+94,Daniel Wilson,M,41,Ahmedabad,Maharashtra,15/03/2023,Keyboard,Accessories,1,-500,Cash,Pending,3,False
+95,Robert Collins,F,41,Ahmedabad,Maharashtra,04-28-2024,Tablet,Electronics,0,29999,Card,,,False
+96,Henry Powers,M,150,Mumbai,Karnataka,2023-02-24,Keyboard,Accessories,3,29999,UPI,,5,True
+97,Edward Reynolds,F,-5,Mumbai,Delhi,17/10/2023,Laptop,Electronics,-2,29999,Card,Pending,-1,False
+98,Christopher Cantrell,Male,22,Mumbai,Gujarat,12-14-2023,Mouse,Accessories,1,29999,,Pending,3,False
+99,Tammy Campbell,Female,30,Delhi,Karnataka,2023-06-17,Printer,Electronics,3,29999,Card,Cancelled,8,False
+100,Leslie English,Male,-5,Jaipur,Delhi,18/01/2024,Tablet,Electronics,2,-500,Crypto,Cancelled,3,False
+101,Albert Dixon,F,22,Ahmedabad,Maharashtra,01-08-2023,Monitor,Electronics,3,-500,,Cancelled,3,
+102,,Male,150,Bengaluru,Maharashtra,2023-04-30,Headphones,Accessories,-2,1499,,Delivered,8,
+103,Vincent Stokes PhD,Male,30,Jaipur,Rajasthan,04/06/2023,Printer,Electronics,3,-500,UPI,Delivered,4,
+104,Ashley Bishop,M,,Mumbai,Karnataka,03-11-2023,Printer,Electronics,0,1499,,Delivered,8,
+105,Pamela Harrell,Male,41,Delhi,Gujarat,2023-07-28,Monitor,Electronics,0,1499,Cash,Delivered,5,
+106,Cassandra Black,Male,-5,Mumbai,Delhi,06/04/2024,Tablet,Electronics,1,-500,UPI,Pending,-1,True
+107,Wendy West,Female,30,Bengaluru,Delhi,01-26-2023,Tablet,Electronics,1,1499,Crypto,Pending,4,False
+108,Brianna Miller,F,22,Mumbai,,2024-02-01,Mouse,Accessories,2,1499,Crypto,Cancelled,4,True
+109,Melissa Shelton,Female,22,Mumbai,Delhi,05/12/2023,Laptop,Electronics,-2,29999,UPI,Pending,5,True
+110,Maria Russo,F,22,Jaipur,Gujarat,03-06-2023,Printer,Electronics,0,29999,Crypto,Delivered,8,
+111,Charles Lucas,F,41,Ahmedabad,Rajasthan,2023-04-24,,Electronics,1,-500,,,3,False
+112,Martha Crawford,Male,22,Mumbai,Karnataka,31/12/2023,Headphones,Accessories,2,599,Card,Cancelled,-1,
+113,Jacob Campbell,M,150,Bengaluru,Maharashtra,10-27-2023,Tablet,Electronics,0,-500,UPI,Delivered,-1,
+114,Christopher Duran,M,-5,Delhi,Gujarat,2024-03-19,Keyboard,Accessories,3,-500,,,,
+115,Christopher Gallagher,M,41,Mumbai,Maharashtra,18/02/2023,Tablet,Electronics,2,-500,UPI,Delivered,3,True
+116,,Unknown,30,Bengaluru,Rajasthan,08-10-2023,Phone,Electronics,-2,29999,,Delivered,8,False
+117,Reginald Armstrong DDS,Male,,Mumbai,Karnataka,2024-03-23,Printer,Electronics,3,29999,UPI,Pending,4,
+118,Erik Johnson,Male,41,Bengaluru,Maharashtra,04/09/2023,Keyboard,Accessories,1,29999,Crypto,Pending,8,
+119,,F,41,Jaipur,Delhi,05-13-2024,Laptop,Electronics,3,29999,Cash,Cancelled,3,True
+120,Stephanie Jones,F,-5,Jaipur,Delhi,2024-03-21,Mouse,Accessories,1,599,,Pending,8,False
+121,Laura Ford,Female,41,Mumbai,Maharashtra,21/08/2023,Tablet,Electronics,-2,599,UPI,Pending,4,
+122,Melissa Tapia,Unknown,-5,Ahmedabad,Gujarat,01-26-2023,Phone,Electronics,-2,-500,,Cancelled,4,
+123,Jerry Perez,M,22,Mumbai,Karnataka,2023-02-28,Tablet,,0,29999,UPI,Pending,8,
+124,Melissa Ryan,Female,41,,Delhi,29/01/2023,Laptop,Electronics,2,29999,Cash,Cancelled,3,True
+125,William Bates,Female,30,Ahmedabad,Karnataka,09-12-2023,Printer,Electronics,2,29999,UPI,,3,False
+126,Amy Henry,Male,41,Bengaluru,Gujarat,2023-01-10,Headphones,Accessories,-2,-500,,,5,True
+127,Andrew Brady,Unknown,30,Bengaluru,Gujarat,27/07/2023,Laptop,Electronics,3,599,,Delivered,4,False
+128,Lisa Sanchez,F,22,Ahmedabad,Maharashtra,10-29-2023,Printer,Electronics,3,1499,Cash,Pending,3,
+129,Ryan Hamilton,F,150,Delhi,Maharashtra,2023-11-21,Phone,Electronics,3,1499,Card,Delivered,4,False
+130,Christina Scott,F,,Delhi,Rajasthan,12/04/2023,Mouse,Accessories,2,-500,,,-1,
+131,Kelly Williams,Unknown,30,Ahmedabad,Rajasthan,11-22-2023,Tablet,Electronics,0,-500,,Cancelled,5,
+132,Pamela Wright,F,22,Mumbai,Gujarat,2023-01-29,Tablet,Electronics,0,599,UPI,Cancelled,5,True
+133,Kathleen Friedman,F,150,Bengaluru,Gujarat,27/11/2023,Phone,Electronics,0,599,,Pending,,False
+134,Michael Wade,F,30,Jaipur,Gujarat,11-06-2023,Headphones,Accessories,1,29999,,Delivered,-1,
+135,Christina Cooper,Female,-5,Ahmedabad,,2023-03-30,Laptop,Electronics,-2,1499,Cash,Cancelled,5,False
+136,,F,22,Mumbai,Rajasthan,29/07/2023,Tablet,Electronics,3,599,Crypto,,5,False
+137,Justin Brown,Unknown,22,Bengaluru,Delhi,01-06-2024,Mouse,Accessories,3,29999,,,4,
+138,Kimberly Hampton,Unknown,150,Ahmedabad,Maharashtra,2023-12-29,Phone,Electronics,2,599,,,-1,False
+139,Linda Ford,Unknown,30,Delhi,Maharashtra,10/01/2023,Tablet,Electronics,0,1499,Card,Pending,4,True
+140,Sean Oconnor,F,150,Bengaluru,Rajasthan,06-01-2023,Phone,Electronics,3,1499,Crypto,,4,True
+141,Jack Schwartz,M,22,Ahmedabad,Maharashtra,2023-04-03,Mouse,Accessories,2,-500,Crypto,Cancelled,8,True
+142,Brent Jones,Unknown,-5,Delhi,Maharashtra,01/10/2023,Keyboard,Accessories,-2,-500,,Cancelled,8,
+143,David Hunter,Female,,Delhi,Karnataka,09-28-2023,Printer,Electronics,2,29999,UPI,,5,
+144,Randy Walker,F,22,Mumbai,Rajasthan,2024-04-23,Phone,Electronics,2,29999,,Pending,8,True
+145,,M,41,Jaipur,Gujarat,29/04/2024,Keyboard,Accessories,1,-500,Crypto,Cancelled,4,False
+146,Joshua Sanchez,Female,22,Mumbai,Rajasthan,02-11-2023,Tablet,Electronics,3,1499,Card,Delivered,5,False
+147,Joshua Martin,M,-5,Bengaluru,Rajasthan,2023-12-23,Mouse,Accessories,1,599,Cash,Pending,4,
+148,Nancy Rice,Male,41,Delhi,Maharashtra,26/04/2024,,Electronics,1,599,Card,,-1,False
+149,Kevin Miller,M,150,Bengaluru,Rajasthan,02-02-2023,Phone,Electronics,-2,1499,,Pending,5,False
+150,Jennifer Adams,Female,150,Ahmedabad,Delhi,2023-01-01,Tablet,Electronics,1,29999,UPI,Delivered,8,False
+151,Joshua Rice,Unknown,41,Jaipur,Maharashtra,23/01/2023,Printer,Electronics,1,29999,Card,Delivered,-1,
+152,Danielle Lewis,Female,22,Mumbai,Karnataka,01-23-2024,Tablet,Electronics,3,1499,,,,
+153,,Female,22,Ahmedabad,Rajasthan,2023-09-03,Mouse,Accessories,3,1499,UPI,Pending,3,False
+154,Diane Sparks,F,-5,Bengaluru,Gujarat,22/04/2024,Monitor,Electronics,3,599,,Pending,5,False
+155,Heather Marshall,Unknown,41,,Rajasthan,03-17-2024,Laptop,Electronics,3,-500,,,8,False
+156,Desiree Anderson,M,,Ahmedabad,Maharashtra,2024-05-13,Mouse,Accessories,-2,29999,UPI,,3,False
+157,Jeremy Martinez,F,41,Mumbai,Rajasthan,05/11/2023,Mouse,Accessories,1,29999,,Cancelled,5,False
+158,Sara Hernandez,Female,-5,Mumbai,Gujarat,11-05-2023,Printer,Electronics,1,29999,Crypto,,5,
+159,Anthony Short,Male,-5,Mumbai,Karnataka,2024-02-10,Laptop,Electronics,2,599,Card,,3,True
+160,James Barber,Unknown,41,Ahmedabad,Karnataka,04/02/2023,Keyboard,Accessories,1,1499,,,5,False
+161,Manuel Weeks,F,30,Bengaluru,Maharashtra,08-16-2023,Phone,Electronics,0,29999,,Cancelled,4,True
+162,Andrew George,M,150,Ahmedabad,,2023-01-14,Mouse,Accessories,-2,599,Cash,Cancelled,8,True
+163,Seth Mcintyre,M,30,Jaipur,Delhi,10/11/2023,Monitor,Electronics,1,-500,Card,,3,
+164,Paul Briggs,Unknown,22,Bengaluru,Karnataka,05-10-2024,Tablet,,3,29999,Card,Pending,5,
+165,Joseph Cardenas,Female,30,Delhi,Gujarat,2023-04-25,Phone,Electronics,1,29999,Crypto,Cancelled,8,
+166,Katelyn Walker,Male,41,Ahmedabad,Gujarat,08/03/2023,Phone,Electronics,-2,-500,,Delivered,4,False
+167,Johnny Todd,M,-5,Bengaluru,Maharashtra,11-25-2023,Phone,Electronics,2,1499,Card,,-1,True
+168,Laura Bates,F,30,Mumbai,Delhi,2024-03-01,Phone,Electronics,2,29999,,Pending,5,
+169,Amanda Kim,Male,,Mumbai,Delhi,03/04/2024,Monitor,Electronics,-2,29999,Card,Cancelled,-1,
+170,,F,150,Delhi,Delhi,02-17-2023,Mouse,Accessories,-2,29999,Crypto,Delivered,3,True
+171,Keith Roberson,Female,150,Ahmedabad,Karnataka,2023-01-24,Monitor,Electronics,1,-500,,Cancelled,,
+172,Caitlyn Figueroa,M,30,Ahmedabad,Maharashtra,04/05/2024,Monitor,Electronics,0,599,,Delivered,4,False
+173,Roy Martinez,M,30,Mumbai,Karnataka,08-01-2023,Headphones,Accessories,2,29999,,Cancelled,5,False
+174,,F,150,Jaipur,Maharashtra,2023-03-08,Tablet,Electronics,2,-500,UPI,Cancelled,8,True
+175,Nicholas Wilson,Male,41,Ahmedabad,Karnataka,14/03/2023,Phone,Electronics,0,1499,Card,Cancelled,-1,
+176,Christina Burnett,Female,-5,Bengaluru,Gujarat,06-10-2023,Keyboard,Accessories,0,29999,,Delivered,3,False
+177,Raymond Small,Female,30,Bengaluru,Maharashtra,2023-09-16,Headphones,Accessories,1,599,Cash,,-1,
+178,Mary Velez,Unknown,150,Jaipur,Rajasthan,11/12/2023,Headphones,Accessories,0,1499,Cash,Cancelled,8,False
+179,Susan Peters,Male,150,Bengaluru,Delhi,01-24-2023,Printer,Electronics,3,29999,UPI,,-1,False
+180,Tanya Warner,F,150,Jaipur,Delhi,2024-01-27,Monitor,Electronics,1,-500,Cash,Cancelled,-1,False
+181,Heidi Singh,Female,150,Bengaluru,Gujarat,22/01/2024,Mouse,Accessories,-2,599,UPI,Delivered,4,
+182,Katherine Ochoa,F,,Ahmedabad,Delhi,06-20-2023,Headphones,Accessories,-2,1499,Cash,Cancelled,4,False
+183,Mr. Joseph Marsh,F,41,Bengaluru,Karnataka,2023-11-12,Monitor,Electronics,-2,-500,,Cancelled,8,True
+184,Dr. Kristie Berger,Male,-5,Bengaluru,Maharashtra,08/07/2023,Tablet,Electronics,1,-500,Cash,Pending,3,
+185,Stephanie Lin,F,150,Ahmedabad,Delhi,09-03-2023,,Accessories,2,599,Crypto,Delivered,4,True
+186,Eric Simmons,M,30,,Gujarat,2023-08-14,Tablet,Electronics,2,-500,Crypto,,3,
+187,,F,41,Ahmedabad,Karnataka,12/03/2023,Keyboard,Accessories,0,29999,Card,,-1,False
+188,David Williams,Unknown,150,Ahmedabad,Delhi,10-07-2023,Tablet,Electronics,2,29999,Crypto,Cancelled,4,False
+189,Kristie Williams,Female,-5,Mumbai,,2024-01-30,Monitor,Electronics,0,29999,Crypto,Cancelled,5,True
+190,James Phillips,M,41,Delhi,Maharashtra,21/10/2023,Printer,Electronics,1,29999,,Delivered,,False
+191,Gary Mitchell,Unknown,-5,Delhi,Delhi,04-18-2024,Headphones,Accessories,-2,29999,Crypto,Cancelled,4,True
+192,Kimberly Lee,Female,22,Bengaluru,Delhi,2023-11-12,Keyboard,Accessories,2,599,UPI,,5,
+193,Ryan Osborn,Female,22,Bengaluru,Delhi,30/08/2023,Phone,Electronics,0,-500,,Pending,5,False
+194,Lori Villegas,Male,150,Delhi,Karnataka,05-27-2023,Laptop,Electronics,1,1499,,Pending,3,False
+195,Matthew Nielsen,Female,,Mumbai,Rajasthan,2024-02-08,Headphones,Accessories,1,29999,Crypto,Delivered,5,False
+196,Kayla Garcia,Female,150,Ahmedabad,Maharashtra,21/08/2023,Headphones,Accessories,2,599,Cash,Pending,8,
+197,Robert Johnson,Male,41,Mumbai,Karnataka,05-12-2023,Mouse,Accessories,2,1499,Crypto,,8,
+198,Paul Lawson,M,22,Delhi,Delhi,2023-06-17,Phone,Electronics,0,29999,Card,Delivered,5,False
+199,Nicholas Parker,Unknown,41,Mumbai,Karnataka,01/05/2023,Headphones,Accessories,-2,599,Cash,Cancelled,4,True
+200,Stephen White,M,41,Delhi,Gujarat,12-08-2023,Phone,Electronics,-2,29999,,Delivered,5,False
+201,Chad Herrera,Female,30,Ahmedabad,Delhi,2023-11-11,Keyboard,Accessories,0,29999,,,-1,
+202,Robert Walsh,Female,150,Jaipur,Karnataka,27/02/2024,Keyboard,Accessories,0,29999,UPI,Delivered,3,
+203,,F,150,Delhi,Delhi,04-07-2024,Keyboard,Accessories,3,-500,UPI,Pending,-1,False
+204,,Male,-5,Delhi,Karnataka,2023-02-16,Headphones,Accessories,0,-500,Crypto,Delivered,-1,False
+205,Timothy Garcia,Male,-5,Mumbai,Rajasthan,11/12/2023,Monitor,,2,599,UPI,,5,
+206,Jeffrey Fleming,Male,-5,Jaipur,Maharashtra,02-02-2023,Laptop,Electronics,0,1499,Card,,5,False
+207,Michele Allen,M,22,Bengaluru,Delhi,2023-08-18,Printer,Electronics,3,599,Card,,-1,True
+208,Charles Pruitt,Male,,Jaipur,Maharashtra,08/01/2024,Keyboard,Accessories,0,-500,Crypto,,4,True
+209,Anthony Chavez,Female,41,Delhi,Rajasthan,08-24-2023,Tablet,Electronics,1,-500,Crypto,Delivered,,True
+210,Jerome Cruz DDS,Male,150,Jaipur,Gujarat,2023-04-16,Phone,Electronics,-2,599,Card,Delivered,8,False
+211,Ryan Simpson,Male,30,Bengaluru,Maharashtra,30/04/2023,Keyboard,Accessories,2,29999,Crypto,Cancelled,4,False
+212,Megan Arnold,F,30,Ahmedabad,Maharashtra,03-24-2024,Mouse,Accessories,3,599,Crypto,Pending,8,
+213,Vanessa Baker,Unknown,-5,Bengaluru,Maharashtra,2023-09-11,Laptop,Electronics,0,-500,Card,Cancelled,8,True
+214,Aaron Alexander,Female,30,Mumbai,Delhi,22/01/2024,Headphones,Accessories,0,599,Crypto,,8,
+215,Margaret Williams,M,30,Mumbai,Delhi,09-29-2023,Mouse,Accessories,3,599,,Cancelled,3,
+216,April Rivera,Male,41,Ahmedabad,,2024-01-06,Keyboard,Accessories,-2,599,UPI,Pending,-1,
+217,Valerie Vega,M,30,,Maharashtra,10/12/2023,Keyboard,Accessories,3,599,Card,Pending,3,
+218,Arthur Pham,Female,150,Delhi,Gujarat,01-22-2024,Headphones,Accessories,2,29999,Cash,,8,
+219,Randy Owens,Unknown,41,Mumbai,Karnataka,2023-11-29,Tablet,Electronics,0,-500,UPI,,5,True
+220,Danielle Rodriguez,M,22,Bengaluru,Delhi,09/07/2023,Tablet,Electronics,2,599,Cash,,5,True
+221,,Female,,Ahmedabad,Karnataka,04-11-2023,Tablet,Electronics,2,-500,Crypto,Cancelled,5,False
+222,Carlos Soto,M,30,Mumbai,Delhi,2024-05-09,,Accessories,2,-500,Card,Delivered,-1,True
+223,Daniel Hall,Male,22,Ahmedabad,Delhi,05/03/2024,Phone,Electronics,2,599,,Pending,3,True
+224,Calvin Johnson,Unknown,22,Bengaluru,Karnataka,09-16-2023,Headphones,Accessories,0,-500,UPI,Delivered,-1,
+225,Rachel Mathews,Male,150,Mumbai,Karnataka,2023-07-30,Laptop,Electronics,3,599,Crypto,,4,True
+226,Charles Meyer,F,30,Delhi,Delhi,15/04/2024,Phone,Electronics,-2,29999,Cash,Cancelled,8,True
+227,Lee Padilla,M,150,Delhi,Delhi,07-11-2023,Printer,Electronics,3,599,,Delivered,3,False
+228,Alejandra Ellis,F,-5,Jaipur,Rajasthan,2023-07-14,Printer,Electronics,2,599,,,,
+229,Christopher Prince,F,22,Bengaluru,Rajasthan,06/02/2024,Tablet,Electronics,2,1499,,,5,True
+230,Carl Bailey,Unknown,150,Bengaluru,Rajasthan,04-18-2024,Phone,Electronics,2,29999,UPI,Pending,-1,True
+231,Cathy Green,Male,41,Delhi,Karnataka,2024-01-21,Printer,Electronics,2,-500,,Cancelled,8,
+232,,F,41,Jaipur,Rajasthan,13/03/2023,Phone,Electronics,0,1499,UPI,Cancelled,-1,
+233,Angela Alexander,Unknown,22,Mumbai,Gujarat,05-03-2024,Printer,Electronics,0,1499,Cash,,8,True
+234,Anthony Reed,Male,,Bengaluru,Maharashtra,2023-12-15,Printer,Electronics,2,599,UPI,Cancelled,4,False
+235,Antonio Pearson,M,41,Mumbai,Rajasthan,31/12/2023,Mouse,Accessories,1,599,Cash,,5,False
+236,Andrew Harrison,Male,30,Ahmedabad,Gujarat,02-22-2023,Mouse,Accessories,-2,-500,UPI,Delivered,3,False
+237,Patricia Hull,F,150,Mumbai,Gujarat,2023-10-11,Phone,Electronics,1,29999,,,3,
+238,,F,150,Delhi,Gujarat,06/04/2024,Keyboard,Accessories,2,1499,Cash,Cancelled,5,False
+239,Michael Martin,Female,-5,Mumbai,Gujarat,03-16-2023,Phone,Electronics,3,-500,UPI,Cancelled,5,True
+240,William Johnson,F,150,Delhi,Gujarat,2024-01-05,Headphones,Accessories,1,1499,Cash,Delivered,8,False
+241,Shelby Davis,Unknown,-5,Mumbai,Gujarat,06/03/2024,Printer,Electronics,-2,1499,Cash,Cancelled,-1,
+242,Jeremy Peters,Unknown,30,Ahmedabad,Maharashtra,04-13-2023,Headphones,Accessories,3,-500,Crypto,Pending,5,False
+243,Daniel Ford,Unknown,22,Bengaluru,,2023-05-24,Printer,Electronics,2,1499,,Delivered,8,
+244,Melissa Hamilton,Unknown,22,Ahmedabad,Gujarat,18/04/2023,Headphones,Accessories,2,29999,Card,Cancelled,4,
+245,Bradley Edwards,Male,-5,Bengaluru,Gujarat,08-05-2023,Printer,Electronics,-2,-500,Crypto,,-1,True
+246,Michael West,F,150,Jaipur,Rajasthan,2024-02-09,Tablet,,2,29999,Card,Delivered,-1,
+247,Valerie Arias,Unknown,,Ahmedabad,Rajasthan,13/12/2023,Printer,Electronics,1,599,Cash,Pending,,
+248,Cheryl Roberts,M,41,,Gujarat,01-18-2024,Keyboard,Accessories,0,1499,Cash,Delivered,8,True
+249,Amanda Rojas,Male,22,Delhi,Maharashtra,2023-06-01,Printer,Electronics,3,29999,,Pending,-1,False
+250,Jade Stewart,Male,-5,Ahmedabad,Maharashtra,28/06/2023,Headphones,Accessories,1,29999,UPI,Delivered,3,False
+251,Kristen Mcpherson,Female,30,Bengaluru,Delhi,11-28-2023,Phone,Electronics,-2,1499,Cash,,8,True
+252,Leslie Carpenter,Female,30,Ahmedabad,Gujarat,2024-02-13,Printer,Electronics,1,1499,,,8,True
+253,Kyle Guzman,Female,41,Jaipur,Karnataka,27/12/2023,Keyboard,Accessories,1,1499,Cash,Cancelled,4,False
+254,Desiree Holmes,M,150,Mumbai,Karnataka,02-28-2023,Monitor,Electronics,0,-500,Crypto,Delivered,5,False
+255,,F,30,Mumbai,Karnataka,2024-03-08,Headphones,Accessories,-2,599,,Pending,5,True
+256,Rita Mcclure,Male,30,Mumbai,Delhi,03/05/2023,Monitor,Electronics,-2,-500,,Pending,-1,False
+257,Christina Marks,M,150,Delhi,Karnataka,08-05-2023,Mouse,Accessories,2,-500,Cash,Pending,4,False
+258,Mckenzie Pierce,F,22,Mumbai,Rajasthan,2024-03-07,Headphones,Accessories,0,1499,Card,,-1,
+259,Chase Hill,M,-5,Ahmedabad,Gujarat,01/12/2023,,Accessories,0,1499,UPI,Delivered,4,False
+260,Daniel Lynch,Female,,Bengaluru,Maharashtra,01-17-2023,Monitor,Electronics,2,-500,Crypto,,-1,
+261,,Unknown,150,Mumbai,Karnataka,2023-02-27,Phone,Electronics,1,-500,Crypto,Pending,8,True
+262,Debra Hudson,Unknown,22,Ahmedabad,Maharashtra,12/01/2024,Keyboard,Accessories,3,599,,Delivered,4,True
+263,Robert Austin,F,-5,Delhi,Karnataka,02-20-2024,Tablet,Electronics,2,1499,Card,Delivered,-1,False
+264,Barry Branch,F,150,Delhi,Maharashtra,2023-09-30,Monitor,Electronics,3,29999,Crypto,Cancelled,-1,
+265,Donald Palmer,Female,-5,Jaipur,Maharashtra,22/02/2024,Phone,Electronics,2,1499,Card,Pending,5,True
+266,Virginia Morgan,M,30,Bengaluru,Maharashtra,01-25-2024,Printer,Electronics,0,-500,,Delivered,,
+267,Eric Lambert,M,150,Mumbai,Maharashtra,2024-02-11,Phone,Electronics,0,-500,Cash,Delivered,3,
+268,Ricky Sullivan,Unknown,22,Bengaluru,Gujarat,12/05/2024,Headphones,Accessories,2,-500,Card,,5,False
+269,Jennifer Mitchell,Unknown,150,Bengaluru,Delhi,02-29-2024,Monitor,Electronics,-2,-500,Cash,Delivered,3,True
+270,Joanna Alvarado,Male,22,Delhi,,2023-11-17,Headphones,Accessories,0,-500,UPI,,4,
+271,Stephanie Johnson,Unknown,30,Mumbai,Rajasthan,10/04/2024,Mouse,Accessories,3,29999,UPI,Cancelled,4,True
+272,,Female,-5,Jaipur,Rajasthan,07-22-2023,Monitor,Electronics,1,1499,,Delivered,4,
+273,Andre Li,Male,,Jaipur,Maharashtra,2023-04-26,Headphones,Accessories,1,-500,,Pending,8,True
+274,Edward Skinner,Male,22,Jaipur,Maharashtra,28/04/2023,Printer,Electronics,3,29999,Card,,4,
+275,Jonathan Wilson,Male,150,Bengaluru,Rajasthan,12-13-2023,Mouse,Accessories,-2,1499,,Cancelled,4,
+276,Kimberly Wallace,M,150,Ahmedabad,Delhi,2024-01-19,Mouse,Accessories,1,599,Card,Delivered,-1,
+277,Joshua Lopez,M,41,Delhi,Delhi,16/07/2023,Tablet,Electronics,3,599,Card,Cancelled,3,
+278,David Myers,Female,150,Bengaluru,Karnataka,03-24-2024,Monitor,Electronics,2,-500,Cash,Delivered,4,False
+279,Michael Garcia,Female,-5,,Karnataka,2023-07-17,Phone,Electronics,1,599,Cash,Cancelled,4,False
+280,Todd Mills,Unknown,150,Delhi,Gujarat,16/03/2024,Printer,Electronics,1,599,Crypto,Delivered,3,False
+281,Jonathan Smith,Male,-5,Bengaluru,Maharashtra,04-21-2023,Laptop,Electronics,-2,-500,,,3,
+282,Jennifer Wells,Unknown,22,Mumbai,Rajasthan,2023-10-02,Mouse,Accessories,-2,1499,Card,Cancelled,8,
+283,Brian Reyes,Unknown,-5,Delhi,Rajasthan,21/11/2023,Phone,Electronics,2,599,,Delivered,8,
+284,Daniel Walker,Unknown,30,Jaipur,Rajasthan,11-08-2023,Laptop,Electronics,2,599,Card,,5,
+285,Jennifer Underwood,Female,41,Delhi,Maharashtra,2023-09-22,Monitor,Electronics,1,599,Cash,,,False
+286,Kevin Snyder,Unknown,,Bengaluru,Rajasthan,26/09/2023,Phone,Electronics,0,-500,Crypto,Cancelled,3,False
+287,Susan Weiss,Unknown,30,Mumbai,Rajasthan,03-15-2024,Mouse,,-2,599,Card,Delivered,3,True
+288,Jason Freeman,M,41,Ahmedabad,Delhi,2023-05-06,Laptop,Electronics,2,599,Crypto,,4,False
+289,,Unknown,41,Jaipur,Karnataka,08/05/2023,Printer,Electronics,3,599,Crypto,Delivered,4,True
+290,,M,22,Ahmedabad,Maharashtra,02-16-2024,Laptop,Electronics,3,29999,UPI,,3,False
+291,Sandra White,F,41,Bengaluru,Delhi,2023-04-13,Monitor,Electronics,0,29999,Crypto,,4,
+292,Ashley Rodriguez,Female,22,Ahmedabad,Rajasthan,06/04/2024,Keyboard,Accessories,2,29999,,Delivered,5,True
+293,Michael Johnson,Unknown,22,Delhi,Karnataka,01-24-2024,Printer,Electronics,2,-500,,Delivered,4,
+294,Nicholas Dunn,Male,30,Bengaluru,Gujarat,2023-05-24,Phone,Electronics,3,-500,,Delivered,-1,True
+295,Jeremy Gilbert,M,22,Bengaluru,Karnataka,16/09/2023,Mouse,Accessories,1,-500,,Pending,4,False
+296,Kyle Henry,M,41,Mumbai,Gujarat,05-14-2023,,Electronics,3,1499,UPI,Pending,4,
+297,Teresa Morrison,Male,30,Ahmedabad,,2023-02-25,Mouse,Accessories,0,29999,,Delivered,-1,False
+298,Cynthia Brennan,M,41,Ahmedabad,Maharashtra,08/05/2024,Keyboard,Accessories,1,599,Card,Cancelled,-1,True
+299,Kimberly Allen,Female,,Jaipur,Delhi,04-21-2023,Tablet,Electronics,3,-500,Crypto,Delivered,5,False
+300,Cynthia Nguyen,Male,-5,Ahmedabad,Karnataka,2024-02-24,Mouse,Accessories,-2,1499,UPI,,3,True
+301,Jose Orr,Male,30,Delhi,Delhi,04/03/2023,Laptop,Electronics,0,29999,,Delivered,-1,
+302,Luis Mcgrath,Male,22,Delhi,Gujarat,05-13-2023,Phone,Electronics,2,599,Cash,Delivered,3,False
+303,Mrs. Morgan Hubbard,F,-5,Ahmedabad,Gujarat,2023-01-26,Mouse,Accessories,1,-500,,,4,False
+304,Julie Weiss DVM,Unknown,41,Ahmedabad,Delhi,20/04/2023,Mouse,Accessories,1,1499,,Cancelled,,False
+305,Christopher English,Male,22,Mumbai,Gujarat,07-30-2023,Headphones,Accessories,2,-500,Card,Pending,-1,True
+306,,M,150,Ahmedabad,Maharashtra,2023-07-15,Tablet,Electronics,-2,29999,,Cancelled,4,True
+307,Clayton Grant,Male,41,Jaipur,Gujarat,13/06/2023,Keyboard,Accessories,-2,29999,Crypto,Pending,4,True
+308,Julie Benson,Unknown,150,Jaipur,Delhi,05-07-2023,Keyboard,Accessories,-2,-500,Cash,Pending,4,True
+309,Tanner Baker,Unknown,150,Jaipur,Maharashtra,2023-10-31,Tablet,Electronics,-2,1499,Crypto,Pending,8,
+310,Natalie Massey,M,22,,Rajasthan,08/06/2023,Mouse,Accessories,1,1499,Crypto,Pending,3,
+311,Michael Carroll,Unknown,150,Delhi,Delhi,09-02-2023,Laptop,Electronics,3,1499,Cash,Delivered,3,True
+312,Tommy Hernandez,Male,,Bengaluru,Maharashtra,2023-10-28,Mouse,Accessories,1,29999,,,-1,True
+313,Steven Bailey,Unknown,30,Delhi,Gujarat,22/06/2023,Monitor,Electronics,0,29999,Card,Cancelled,4,
+314,Sonya Griffin,M,41,Mumbai,Delhi,10-29-2023,Mouse,Accessories,2,599,,,-1,True
+315,Dana Adams,F,30,Bengaluru,Rajasthan,2023-04-04,Tablet,Electronics,0,1499,Cash,Delivered,4,False
+316,Claudia Smith,Male,41,Ahmedabad,Rajasthan,13/06/2023,Mouse,Accessories,3,1499,Card,Delivered,5,False
+317,Benjamin Griffith,Male,22,Ahmedabad,Gujarat,02-07-2024,Phone,Electronics,0,1499,,,8,False
+318,James Torres,Male,-5,Bengaluru,Delhi,2023-10-07,Printer,Electronics,2,-500,UPI,Delivered,5,True
+319,,Male,22,Mumbai,Delhi,13/06/2023,Monitor,Electronics,0,1499,,Delivered,-1,True
+320,Angela Wheeler,Male,-5,Delhi,Karnataka,06-23-2023,Headphones,Accessories,0,1499,UPI,Delivered,5,True
+321,Ashley Carson,M,150,Bengaluru,Maharashtra,2024-05-13,Keyboard,Accessories,3,29999,Card,Delivered,3,False
+322,Stefanie Bailey,Female,22,Mumbai,Rajasthan,20/10/2023,Headphones,Accessories,0,599,Cash,,4,True
+323,,Female,41,Jaipur,Gujarat,01-14-2023,Keyboard,Accessories,1,29999,,,,False
+324,Joan Burgess,Male,150,Ahmedabad,,2024-04-03,Monitor,Electronics,2,29999,,Cancelled,4,False
+325,David Jordan,M,,Ahmedabad,Maharashtra,23/01/2023,Monitor,Electronics,2,29999,Crypto,Delivered,4,
+326,Vanessa Rodriguez,Male,41,Bengaluru,Gujarat,12-08-2023,Phone,Electronics,-2,1499,Crypto,Delivered,8,
+327,Joseph Hoffman,F,30,Ahmedabad,Maharashtra,2023-08-03,Headphones,Accessories,1,-500,,Delivered,-1,
+328,William Benjamin,Male,-5,Delhi,Delhi,06/04/2024,Mouse,,2,1499,Card,Delivered,8,True
+329,Gina Shah,Female,30,Bengaluru,Maharashtra,12-16-2023,Printer,Electronics,3,599,UPI,,-1,False
+330,Jimmy Chang,Unknown,150,Ahmedabad,Rajasthan,2023-10-10,Tablet,Electronics,-2,-500,UPI,,4,True
+331,Paul Palmer,Male,150,Jaipur,Maharashtra,18/10/2023,Phone,Electronics,-2,29999,,Cancelled,8,
+332,Stacy Gonzalez,Male,30,Mumbai,Gujarat,09-06-2023,Headphones,Accessories,2,-500,UPI,,5,
+333,Rebecca Cervantes,M,41,Mumbai,Rajasthan,2023-05-02,,Electronics,3,29999,Cash,Cancelled,8,
+334,Elizabeth Johnson,Female,30,Mumbai,Gujarat,17/12/2023,Phone,Electronics,3,29999,,,-1,
+335,Kristy Brown,M,30,Ahmedabad,Gujarat,02-15-2023,Keyboard,Accessories,-2,29999,UPI,Pending,3,False
+336,Mr. Chad Harrison,Female,150,Bengaluru,Rajasthan,2023-12-30,Printer,Electronics,2,1499,Card,Delivered,4,True
+337,Penny Hoffman,Unknown,30,Mumbai,Maharashtra,22/08/2023,Laptop,Electronics,0,-500,,Delivered,3,True
+338,Ruth Harris,F,,Ahmedabad,Delhi,07-10-2023,Headphones,Accessories,0,29999,Cash,Pending,5,
+339,Susan Scott,Unknown,22,Ahmedabad,Rajasthan,2024-03-01,Phone,Electronics,2,1499,Card,Pending,4,False
+340,,F,22,Jaipur,Gujarat,30/11/2023,Printer,Electronics,2,1499,Crypto,Delivered,4,False
+341,Richard Valencia,Unknown,-5,,Gujarat,11-08-2023,Monitor,Electronics,3,-500,Cash,Pending,8,False
+342,Amy Gomez,F,22,Jaipur,Karnataka,2023-12-13,Printer,Electronics,3,29999,Cash,Delivered,,False
+343,Monica Sanchez,Unknown,41,Mumbai,Maharashtra,02/02/2023,Tablet,Electronics,3,1499,Card,Pending,3,
+344,Samantha Williams,Female,22,Ahmedabad,Maharashtra,07-26-2023,Tablet,Electronics,3,-500,,,3,
+345,Veronica Lopez,Unknown,30,Bengaluru,Gujarat,2023-12-29,Keyboard,Accessories,3,29999,Card,Pending,5,True
+346,Stephanie Smith DDS,Unknown,150,Delhi,Maharashtra,30/08/2023,Mouse,Accessories,1,1499,Cash,Pending,5,False
+347,Levi Floyd,Unknown,41,Bengaluru,Maharashtra,02-08-2024,Tablet,Electronics,0,599,,Delivered,-1,
+348,,M,30,Bengaluru,Rajasthan,2024-04-28,Phone,Electronics,0,29999,,Delivered,4,True
+349,Juan Wright,M,150,Ahmedabad,Delhi,13/04/2023,Tablet,Electronics,3,1499,UPI,,5,
+350,Angela Thomas,Male,22,Ahmedabad,Maharashtra,04-01-2023,Tablet,Electronics,2,1499,Crypto,Pending,8,True
+351,Lee Contreras,M,,Ahmedabad,,2023-03-08,Printer,Electronics,0,-500,,Delivered,3,
+352,Samantha Roberts,Male,41,Bengaluru,Delhi,13/04/2023,Tablet,Electronics,1,599,,Pending,4,
+353,Abigail Steele,Unknown,30,Jaipur,Gujarat,03-25-2024,Tablet,Electronics,-2,29999,Card,Delivered,3,False
+354,James Moore,M,150,Bengaluru,Karnataka,2024-04-30,Monitor,Electronics,3,-500,,Pending,5,False
+355,Douglas Ross,Female,-5,Jaipur,Delhi,03/07/2023,Keyboard,Accessories,2,1499,Card,Delivered,-1,
+356,Craig Burton,Unknown,22,Ahmedabad,Maharashtra,03-28-2023,Phone,Electronics,-2,599,Crypto,Delivered,3,
+357,,Male,22,Ahmedabad,Gujarat,2024-03-04,Laptop,Electronics,0,599,Crypto,Cancelled,8,
+358,Taylor Stevens,Male,41,Ahmedabad,Rajasthan,20/03/2023,Keyboard,Accessories,-2,29999,Crypto,Pending,8,True
+359,Wendy Johnson,Unknown,22,Jaipur,Gujarat,09-19-2023,Phone,Electronics,2,1499,Cash,Pending,5,
+360,Sarah Mullins,Female,22,Bengaluru,Gujarat,2023-07-29,Monitor,Electronics,2,-500,Cash,Pending,3,True
+361,Sara Wilson,Male,150,Ahmedabad,Delhi,10/12/2023,Phone,Electronics,1,599,,Delivered,,False
+362,Joshua Jones,M,41,Mumbai,Gujarat,11-26-2023,Keyboard,Accessories,1,599,Card,Delivered,5,False
+363,Alexandria Costa,M,22,Jaipur,Rajasthan,2024-02-15,Tablet,Electronics,1,1499,,Pending,5,False
+364,Beth Sanders,F,,Mumbai,Rajasthan,02/04/2024,Headphones,Accessories,3,29999,Card,Delivered,8,False
+365,Andrew Hodge,Unknown,-5,Ahmedabad,Gujarat,05-07-2024,Headphones,Accessories,2,599,Card,Delivered,4,True
+366,Zachary Adkins,F,-5,Delhi,Karnataka,2023-08-02,Headphones,Accessories,0,29999,Crypto,Delivered,4,False
+367,Joseph Rodriguez,Male,-5,Ahmedabad,Rajasthan,16/04/2024,Headphones,Accessories,1,29999,,Cancelled,3,
+368,Deanna Park,Unknown,150,Bengaluru,Karnataka,03-20-2024,Keyboard,Accessories,1,-500,,Pending,8,False
+369,Carrie Martinez MD,Female,150,Bengaluru,Rajasthan,2023-12-06,Printer,,1,1499,Crypto,,8,True
+370,Ashley Fowler,Unknown,30,Mumbai,Maharashtra,08/02/2023,,Accessories,1,1499,Crypto,,8,True
+371,Dr. Jessica Huang,M,150,Ahmedabad,Rajasthan,02-10-2023,Headphones,Accessories,0,-500,Cash,Delivered,8,
+372,Mr. Jeremy Williams PhD,Male,-5,,Gujarat,2023-12-01,Laptop,Electronics,1,599,UPI,Cancelled,-1,
+373,Marvin Pope,Unknown,41,Jaipur,Delhi,16/04/2023,Headphones,Accessories,0,29999,Crypto,,5,
+374,,Male,30,Jaipur,Maharashtra,08-20-2023,Phone,Electronics,3,29999,Crypto,Cancelled,3,True
+375,Elijah Rodriguez,M,30,Ahmedabad,Rajasthan,2024-04-04,Mouse,Accessories,3,1499,Card,Delivered,8,True
+376,Jennifer Garcia,Unknown,22,Ahmedabad,Rajasthan,23/08/2023,Keyboard,Accessories,-2,599,,,-1,
+377,,Male,,Bengaluru,Rajasthan,03-10-2023,Headphones,Accessories,-2,-500,Crypto,,-1,True
+378,Heather Banks,Female,22,Ahmedabad,,2023-12-21,Mouse,Accessories,-2,29999,Crypto,,8,
+379,Wendy Harris,Unknown,-5,Mumbai,Maharashtra,13/04/2024,Keyboard,Accessories,0,1499,Card,,-1,
+380,Mr. Allen Wright,F,41,Bengaluru,Delhi,03-29-2024,Monitor,Electronics,2,1499,Crypto,Cancelled,,
+381,Timothy Hill,Female,150,Bengaluru,Maharashtra,2023-06-26,Mouse,Accessories,1,29999,Crypto,,-1,
+382,Lacey Wright,F,41,Ahmedabad,Rajasthan,27/04/2024,Printer,Electronics,-2,599,UPI,,4,True
+383,Nicholas Herrera,Female,41,Delhi,Maharashtra,12-10-2023,Laptop,Electronics,3,1499,UPI,Cancelled,4,
+384,Kelly Cummings,M,22,Bengaluru,Karnataka,2023-01-17,Tablet,Electronics,2,-500,Card,Cancelled,3,False
+385,Mark Lane,Unknown,150,Jaipur,Rajasthan,18/07/2023,Printer,Electronics,3,1499,Crypto,,4,
+386,Beth Brown,F,150,Bengaluru,Delhi,12-27-2023,Tablet,Electronics,2,29999,,Pending,3,True
+387,Brianna Parks,F,22,Ahmedabad,Rajasthan,2024-05-07,Mouse,Accessories,0,29999,Crypto,Cancelled,4,True
+388,Ann Crawford,Male,41,Ahmedabad,Delhi,27/10/2023,Monitor,Electronics,1,1499,Cash,Delivered,-1,
+389,Shirley Sparks,F,150,Mumbai,Rajasthan,06-04-2023,Headphones,Accessories,3,1499,Card,Delivered,-1,True
+390,Julian Peterson,Male,,Mumbai,Delhi,2023-08-01,Printer,Electronics,2,29999,Cash,Cancelled,5,True
+391,,F,22,Jaipur,Maharashtra,01/05/2024,Headphones,Accessories,0,1499,,Pending,3,
+392,Megan Reynolds,M,22,Ahmedabad,Maharashtra,03-29-2024,Tablet,Electronics,-2,29999,UPI,Cancelled,-1,
+393,Allison Avila,Male,41,Delhi,Maharashtra,2023-08-17,Headphones,Accessories,-2,599,UPI,Pending,-1,
+394,Philip Sampson,Female,30,Ahmedabad,Rajasthan,04/01/2023,Phone,Electronics,2,-500,,Delivered,4,True
+395,Cody Charles,Male,22,Jaipur,Rajasthan,08-24-2023,Tablet,Electronics,2,29999,Crypto,Delivered,-1,True
+396,Erika Carroll,M,-5,Ahmedabad,Gujarat,2024-04-11,Monitor,Electronics,0,29999,UPI,,3,
+397,Anthony Schmidt,F,22,Jaipur,Maharashtra,04/01/2023,Phone,Electronics,-2,599,Cash,Cancelled,-1,True
+398,Crystal Diaz,M,-5,Jaipur,Gujarat,05-25-2023,Headphones,Accessories,2,1499,Card,,-1,False
+399,Kara Riggs,Unknown,41,Jaipur,Karnataka,2024-05-06,Mouse,Accessories,-2,1499,UPI,Delivered,,True
+400,Mary Spencer,F,150,Jaipur,Maharashtra,21/10/2023,Printer,Electronics,2,29999,Card,,-1,True
+401,Sean Simon,Female,150,Mumbai,Delhi,03-24-2023,Mouse,Accessories,1,1499,,Delivered,-1,False
+402,Ethan Romero,Unknown,22,Mumbai,Rajasthan,2023-11-27,Phone,Electronics,2,-500,Cash,Cancelled,4,
+403,Jesus Jackson,Male,,,Maharashtra,02/12/2023,Keyboard,Accessories,-2,599,Card,Cancelled,8,False
+404,Eric Oneill,F,30,Bengaluru,Karnataka,06-18-2023,Monitor,Electronics,3,29999,,Pending,3,False
+405,Melissa Lopez,M,41,Mumbai,,2023-05-07,Keyboard,Accessories,2,29999,,,8,False
+406,,M,150,Jaipur,Delhi,01/02/2024,Monitor,Electronics,-2,599,Cash,Pending,-1,True
+407,Victoria Williams,Male,22,Bengaluru,Rajasthan,05-15-2023,,Electronics,-2,-500,Crypto,Pending,3,
+408,,Female,41,Ahmedabad,Delhi,2023-05-14,Headphones,Accessories,-2,29999,Card,,-1,
+409,Jennifer Spencer,Unknown,150,Jaipur,Delhi,16/02/2023,Printer,Electronics,-2,1499,Crypto,Pending,8,True
+410,Michelle Olson DDS,M,41,Jaipur,Delhi,04-02-2023,Mouse,,0,1499,UPI,Cancelled,5,True
+411,Christine Smith,F,41,Ahmedabad,Gujarat,2023-01-22,Keyboard,Accessories,0,599,UPI,Cancelled,3,
+412,Tammy Cantrell,Unknown,150,Bengaluru,Karnataka,10/05/2024,Monitor,Electronics,2,-500,,,5,
+413,William Garcia,F,41,Ahmedabad,Delhi,12-01-2023,Phone,Electronics,-2,-500,Cash,Cancelled,8,False
+414,John Bryant,F,30,Ahmedabad,Delhi,2024-03-30,Laptop,Electronics,2,599,Crypto,Cancelled,4,True
+415,Colin Mathews,Unknown,150,Jaipur,Delhi,06/04/2023,Mouse,Accessories,0,29999,,Delivered,8,
+416,Dr. Edwin Wyatt,Female,,Bengaluru,Delhi,09-03-2023,Headphones,Accessories,0,599,Card,Delivered,4,
+417,Larry Long,Female,150,Jaipur,Karnataka,2023-10-31,Mouse,Accessories,2,599,Card,Cancelled,4,
+418,Benjamin Lee,F,150,Jaipur,Maharashtra,05/05/2024,Printer,Electronics,1,1499,,,,False
+419,April Crane,M,150,Delhi,Karnataka,03-29-2023,Keyboard,Accessories,2,29999,Card,Cancelled,8,
+420,Heather Rhodes,Female,-5,Ahmedabad,Delhi,2023-10-30,Phone,Electronics,1,599,Card,,4,
+421,Ryan Henderson,M,150,Bengaluru,Rajasthan,19/02/2023,Mouse,Accessories,-2,599,UPI,,4,
+422,Robert Hernandez,M,150,Ahmedabad,Maharashtra,10-04-2023,Laptop,Electronics,1,-500,Card,,8,False
+423,Anthony Bass,M,30,Mumbai,Gujarat,2023-10-29,Phone,Electronics,2,599,Cash,,5,True
+424,Charles Gallegos,F,150,Jaipur,Karnataka,03/01/2023,Laptop,Electronics,1,-500,,Pending,5,False
+425,,Female,-5,Bengaluru,Maharashtra,07-05-2023,Phone,Electronics,3,-500,Crypto,Cancelled,-1,False
+426,John Copeland,Female,-5,Bengaluru,Karnataka,2023-12-15,Printer,Electronics,0,1499,Cash,,5,False
+427,Jennifer Phillips,M,30,Jaipur,Delhi,23/10/2023,Tablet,Electronics,0,1499,UPI,Pending,-1,False
+428,Steven Davis,F,150,Jaipur,Delhi,02-07-2024,Tablet,Electronics,0,599,UPI,Pending,8,
+429,Ryan Peterson,Male,,Mumbai,Delhi,2023-08-11,Phone,Electronics,3,599,Crypto,Delivered,8,False
+430,Luke Webster,F,22,Delhi,Gujarat,11/11/2023,Monitor,Electronics,0,599,Card,Cancelled,4,True
+431,Paul Sullivan,F,30,Jaipur,Maharashtra,02-06-2024,Keyboard,Accessories,2,599,Card,Delivered,5,False
+432,Glenn Walls,M,150,Delhi,,2023-06-30,Printer,Electronics,-2,599,,Delivered,3,
+433,Patricia Holmes,Unknown,41,Delhi,Karnataka,26/05/2023,Tablet,Electronics,2,-500,,Delivered,5,True
+434,Lauren Kent,F,22,,Karnataka,07-28-2023,Phone,Electronics,3,29999,UPI,Cancelled,-1,
+435,,M,150,Ahmedabad,Delhi,2023-05-09,Headphones,Accessories,3,-500,,,-1,True
+436,Timothy Wright,Unknown,22,Ahmedabad,Delhi,04/09/2023,Phone,Electronics,2,29999,,Cancelled,-1,
+437,Miss Patricia Martin DVM,Female,41,Jaipur,Gujarat,01-05-2023,Monitor,Electronics,3,599,Crypto,Pending,,False
+438,Brandon Salas,Female,150,Mumbai,Delhi,2023-06-10,Tablet,Electronics,2,-500,,Pending,4,
+439,Robert Pena,Female,30,Delhi,Delhi,04/05/2023,Monitor,Electronics,-2,29999,Card,Delivered,3,True
+440,Nicole Lewis,F,22,Bengaluru,Rajasthan,12-13-2023,Headphones,Accessories,0,29999,Crypto,Cancelled,8,
+441,Destiny Patton,M,30,Bengaluru,Maharashtra,2024-03-20,Monitor,Electronics,0,1499,Crypto,Pending,3,
+442,,M,,Bengaluru,Rajasthan,14/02/2024,Printer,Electronics,-2,29999,,Pending,8,True
+443,Jennifer Kelley,Unknown,22,Jaipur,Delhi,12-24-2023,Headphones,Accessories,0,599,Cash,Cancelled,-1,False
+444,Kenneth Good,Female,41,Ahmedabad,Karnataka,2023-04-06,,Electronics,3,29999,Card,,8,True
+445,Joshua Flowers,Unknown,-5,Mumbai,Gujarat,03/08/2023,Tablet,Electronics,2,1499,Crypto,Pending,3,
+446,Claire Farrell,F,-5,Ahmedabad,Delhi,05-19-2023,Keyboard,Accessories,2,1499,,Delivered,4,False
+447,Dean Parker,F,150,Mumbai,Gujarat,2023-09-13,Mouse,Accessories,3,29999,Crypto,Delivered,8,True
+448,Amanda Grimes,Male,30,Mumbai,Gujarat,20/12/2023,Mouse,Accessories,1,-500,,Cancelled,5,False
+449,Edward Franklin,Unknown,22,Ahmedabad,Rajasthan,07-04-2023,Monitor,Electronics,3,1499,Crypto,Pending,5,False
+450,Tammy Smith,M,22,Ahmedabad,Karnataka,2023-06-16,Headphones,Accessories,3,-500,,Pending,4,
+451,Brittany Barton,M,150,Bengaluru,Gujarat,18/02/2024,Tablet,,1,599,Card,Cancelled,4,False
+452,Katherine Barnes,Unknown,150,Ahmedabad,Maharashtra,06-12-2023,Monitor,Electronics,0,29999,,,8,True
+453,Jason Roberts,Female,30,Mumbai,Rajasthan,2023-04-05,Laptop,Electronics,2,1499,,Delivered,3,True
+454,Justin Decker,F,22,Jaipur,Gujarat,24/04/2024,Headphones,Accessories,-2,599,UPI,Cancelled,-1,True
+455,Sarah Moore DVM,Unknown,,Delhi,Delhi,02-13-2023,Printer,Electronics,3,-500,,Pending,4,
+456,Jack Brown,Male,22,Mumbai,Maharashtra,2024-03-05,Mouse,Accessories,0,-500,Crypto,Cancelled,,
+457,Alexander Roman,F,30,Bengaluru,Karnataka,16/08/2023,Mouse,Accessories,0,-500,Crypto,Cancelled,5,False
+458,Sherri Foster,Male,-5,Mumbai,Maharashtra,10-04-2023,Keyboard,Accessories,0,29999,Card,Cancelled,3,True
+459,,Unknown,41,Ahmedabad,,2023-09-25,Mouse,Accessories,-2,599,,,8,False
+460,Jennifer Houston,Unknown,150,Delhi,Rajasthan,05/01/2023,Printer,Electronics,-2,29999,Card,,-1,False
+461,Joseph Baker,Female,-5,Ahmedabad,Delhi,07-22-2023,Keyboard,Accessories,3,599,,Pending,-1,
+462,Timothy Quinn,Unknown,150,Mumbai,Gujarat,2024-02-18,Monitor,Electronics,2,599,Card,Pending,5,True
+463,Brandon Monroe,F,-5,Mumbai,Karnataka,23/11/2023,Headphones,Accessories,0,1499,Cash,Delivered,4,True
+464,,Female,22,Mumbai,Maharashtra,05-11-2024,Laptop,Electronics,2,-500,,Delivered,4,True
+465,Christine Cook,M,30,,Maharashtra,2023-03-19,Laptop,Electronics,0,29999,,Cancelled,8,
+466,Jennifer Moran,Unknown,22,Delhi,Rajasthan,10/02/2024,Laptop,Electronics,3,-500,UPI,,4,True
+467,Erik Nixon,M,22,Jaipur,Delhi,04-03-2024,Monitor,Electronics,0,-500,Card,Delivered,4,False
+468,Sarah Lopez,F,,Delhi,Gujarat,2024-01-12,Phone,Electronics,0,29999,Cash,Pending,3,
+469,Alexander Lewis,Unknown,-5,Mumbai,Delhi,24/04/2024,Phone,Electronics,3,599,,Pending,3,True
+470,Chloe Morales,Unknown,22,Delhi,Maharashtra,11-21-2023,Printer,Electronics,-2,599,,Pending,3,True
+471,Sarah Griffin,F,30,Mumbai,Rajasthan,2023-10-25,Headphones,Accessories,2,1499,,Delivered,-1,False
+472,Jasmine Burns,Male,41,Delhi,Karnataka,21/04/2024,Laptop,Electronics,1,1499,,Pending,5,
+473,Brandy Huffman,M,30,Jaipur,Gujarat,02-08-2024,Tablet,Electronics,3,1499,Cash,Delivered,8,
+474,Joseph Cowan,F,-5,Delhi,Karnataka,2023-08-13,Monitor,Electronics,2,29999,Cash,,5,
+475,Sabrina Stewart,Male,150,Delhi,Gujarat,13/04/2024,Mouse,Accessories,3,29999,Crypto,Cancelled,,False
+476,,Female,22,Bengaluru,Maharashtra,01-01-2023,Printer,Electronics,-2,1499,Cash,Delivered,-1,False
+477,Jack Bradley,F,30,Bengaluru,Maharashtra,2023-04-08,Headphones,Accessories,3,-500,,Cancelled,3,True
+478,Edwin Moore,Male,30,Delhi,Rajasthan,25/09/2023,Phone,Electronics,2,599,,Pending,3,True
+479,Eileen Gardner,M,150,Bengaluru,Karnataka,10-20-2023,Printer,Electronics,3,599,Cash,Pending,-1,
+480,Amanda Murray,Female,-5,Jaipur,Gujarat,2023-02-06,Laptop,Electronics,1,29999,Crypto,,5,
+481,Aaron Mayer,F,,Jaipur,Rajasthan,30/01/2023,,Electronics,3,599,Card,Delivered,3,
+482,James Williams,Female,30,Bengaluru,Delhi,04-29-2023,Printer,Electronics,-2,1499,Crypto,,3,
+483,Stephanie Thompson,M,-5,Jaipur,Delhi,2023-10-23,Tablet,Electronics,2,-500,Crypto,Cancelled,4,
+484,Jonathan Sanchez,Unknown,41,Bengaluru,Maharashtra,04/11/2023,Headphones,Accessories,3,-500,,,5,
+485,Albert Myers,M,150,Mumbai,Maharashtra,05-04-2023,Keyboard,Accessories,0,-500,,Delivered,3,False
+486,Aimee Brown,F,30,Mumbai,,2023-11-02,Laptop,Electronics,1,29999,Card,Pending,5,True
+487,Ashley Garrison,F,150,Bengaluru,Karnataka,31/01/2024,Monitor,Electronics,-2,1499,UPI,Delivered,8,False
+488,Kristopher English,Unknown,41,Bengaluru,Delhi,03-21-2023,Mouse,Accessories,2,29999,Cash,Delivered,-1,False
+489,James Smith,Male,41,Ahmedabad,Delhi,2023-10-19,Keyboard,Accessories,0,599,Crypto,Cancelled,3,
+490,Katherine Santana,Male,22,Mumbai,Maharashtra,18/02/2024,Printer,Electronics,0,-500,UPI,Pending,-1,True
+491,Tyler Dunlap,Male,41,Bengaluru,Rajasthan,11-21-2023,Printer,Electronics,3,1499,Cash,Pending,4,True
+492,Daniel Johnson,M,150,Bengaluru,Karnataka,2023-12-11,Printer,,1,1499,,Cancelled,8,True
+493,,Male,-5,Bengaluru,Rajasthan,09/03/2023,Tablet,Electronics,-2,-500,Cash,Delivered,8,
+494,Shannon Cummings,Female,,Ahmedabad,Karnataka,08-11-2023,Mouse,Accessories,2,-500,,Pending,,
+495,Alexander Stephenson,Female,22,Mumbai,Gujarat,2023-11-12,Keyboard,Accessories,3,599,UPI,,8,False
+496,Jason Boyd,Unknown,41,,Karnataka,28/06/2023,Keyboard,Accessories,1,29999,Card,Cancelled,-1,False
+497,Deborah Jackson,M,22,Delhi,Delhi,11-16-2023,Mouse,Accessories,3,1499,,Delivered,3,
+498,Nicholas Sosa,F,30,Mumbai,Rajasthan,2023-01-28,Keyboard,Accessories,3,599,Cash,,8,True
+499,Brianna Lewis,F,30,Delhi,Karnataka,19/06/2023,Keyboard,Accessories,-2,29999,Crypto,,-1,
+500,Ryan Alexander,M,150,Bengaluru,Rajasthan,03-14-2023,Laptop,Electronics,3,1499,UPI,Cancelled,4,
+501,Brian Smith,Male,-5,Jaipur,Rajasthan,2023-11-13,Monitor,Electronics,0,29999,,Cancelled,3,True
+502,Nancy Matthews,Female,-5,Bengaluru,Rajasthan,30/05/2023,Printer,Electronics,3,-500,Crypto,Delivered,4,True
+503,Cynthia Norman,F,22,Jaipur,Delhi,09-14-2023,Headphones,Accessories,-2,29999,Cash,,8,
+504,Jonathan Smith,Unknown,41,Mumbai,Maharashtra,2023-03-22,Laptop,Electronics,2,29999,UPI,Cancelled,8,True
+505,Amanda Douglas,Female,30,Mumbai,Gujarat,28/04/2024,Monitor,Electronics,2,599,,,-1,
+506,William Young,M,30,Bengaluru,Delhi,11-10-2023,Keyboard,Accessories,0,29999,Crypto,Cancelled,8,
+507,Ariana Brown,Female,,Bengaluru,Karnataka,2023-03-09,Keyboard,Accessories,2,1499,Cash,Pending,8,True
+508,Susan Turner,Unknown,22,Bengaluru,Karnataka,02/12/2023,Mouse,Accessories,1,1499,Cash,Pending,3,False
+509,Deborah Maynard,M,41,Ahmedabad,Maharashtra,03-26-2024,Printer,Electronics,2,1499,UPI,Pending,4,True
+510,,F,150,Bengaluru,Delhi,2024-01-26,Monitor,Electronics,-2,1499,Card,Delivered,5,True
+511,Sarah Collins,Female,150,Bengaluru,Gujarat,19/12/2023,Headphones,Accessories,3,1499,,,8,True
+512,Mrs. Jennifer Gutierrez,Female,22,Ahmedabad,Rajasthan,03-25-2023,Keyboard,Accessories,3,-500,Card,Pending,4,True
+513,Jamie Garcia,F,-5,Mumbai,,2023-04-01,Headphones,Accessories,0,1499,,,,True
+514,Mary Gutierrez,Unknown,-5,Bengaluru,Karnataka,08/11/2023,Printer,Electronics,-2,599,Crypto,Delivered,8,False
+515,Jacob Beltran,Female,150,Bengaluru,Gujarat,02-28-2024,Laptop,Electronics,1,-500,Crypto,Delivered,4,False
+516,Penny Crawford,Unknown,41,Ahmedabad,Delhi,2023-08-14,Printer,Electronics,0,29999,Crypto,Delivered,-1,True
+517,Luis Sanchez,Male,150,Jaipur,Delhi,26/08/2023,Headphones,Accessories,-2,1499,,,5,False
+518,George Thomas,M,150,Delhi,Gujarat,01-13-2023,,Accessories,1,29999,Cash,Pending,3,True
+519,Katelyn Smith,Unknown,22,Bengaluru,Gujarat,2023-02-28,Headphones,Accessories,-2,1499,,,3,True
+520,Debra Vazquez,F,,Delhi,Delhi,12/04/2024,Tablet,Electronics,2,1499,,Delivered,8,False
+521,Brenda Gomez,Unknown,30,Jaipur,Delhi,06-08-2023,Headphones,Accessories,2,599,Crypto,Cancelled,3,False
+522,,F,22,Bengaluru,Gujarat,2023-09-12,Headphones,Accessories,2,1499,Crypto,,8,False
+523,Maria Miller,F,150,Jaipur,Delhi,15/08/2023,Phone,Electronics,-2,29999,Crypto,Pending,3,True
+524,Kyle Fox,Unknown,22,Delhi,Rajasthan,03-17-2023,Laptop,Electronics,-2,29999,Cash,Delivered,3,True
+525,Ashley Yoder,Female,41,Bengaluru,Karnataka,2023-08-02,Mouse,Accessories,-2,1499,,Cancelled,3,True
+526,Brenda Murphy,Unknown,41,Ahmedabad,Rajasthan,29/01/2024,Monitor,Electronics,0,599,Cash,,4,True
+527,,Unknown,150,,Gujarat,12-22-2023,Monitor,Electronics,-2,1499,,Pending,-1,True
+528,Jessica Carney,M,150,Mumbai,Gujarat,2023-02-25,Phone,Electronics,-2,29999,Cash,Cancelled,4,
+529,Adam Ortiz,F,-5,Ahmedabad,Delhi,16/10/2023,Headphones,Accessories,-2,1499,,Cancelled,4,True
+530,Dorothy Jackson,M,22,Delhi,Karnataka,03-02-2023,Laptop,Electronics,0,-500,UPI,Cancelled,5,
+531,Sarah Fuller,Male,30,Mumbai,Maharashtra,2024-02-17,Keyboard,Accessories,1,29999,Cash,Cancelled,3,True
+532,Rachel Wang,Unknown,-5,Bengaluru,Karnataka,18/12/2023,Tablet,Electronics,1,1499,Card,Cancelled,,False
+533,Melissa Allen DDS,M,,Jaipur,Delhi,04-17-2024,Headphones,,0,1499,,,-1,False
+534,Jennifer Young,Male,150,Mumbai,Karnataka,2023-08-25,Printer,Electronics,3,599,Card,Cancelled,5,True
+535,Kelly Walker,Unknown,22,Mumbai,Gujarat,11/05/2024,Mouse,Accessories,-2,1499,Crypto,,4,
+536,Brandon Barnes,Unknown,22,Mumbai,Gujarat,03-01-2023,Monitor,Electronics,1,-500,Card,Cancelled,8,False
+537,Dorothy Henry,Female,22,Mumbai,Rajasthan,2023-04-21,Monitor,Electronics,2,599,,Delivered,8,
+538,Joanna Sharp,Unknown,-5,Bengaluru,Maharashtra,20/03/2023,Keyboard,Accessories,3,1499,UPI,Pending,4,
+539,David Murphy,M,150,Jaipur,Rajasthan,01-19-2023,Headphones,Accessories,3,599,,Delivered,5,False
+540,Charles Mora,Male,150,Mumbai,,2024-03-31,Laptop,Electronics,1,29999,,Pending,5,True
+541,Sean Lynch,Unknown,150,Mumbai,Gujarat,09/04/2023,Monitor,Electronics,1,29999,Card,Pending,5,True
+542,Tiffany Brown,Female,150,Mumbai,Karnataka,01-08-2023,Phone,Electronics,3,29999,Card,Cancelled,-1,True
+543,Thomas White,Unknown,150,Mumbai,Karnataka,2023-03-29,Phone,Electronics,0,599,Card,Delivered,8,
+544,,M,22,Jaipur,Gujarat,26/01/2023,Phone,Electronics,0,1499,,,-1,False
+545,Mr. Darren Miller,Female,150,Jaipur,Gujarat,06-09-2023,Tablet,Electronics,-2,1499,UPI,,3,False
+546,Jordan Carrillo,M,,Delhi,Delhi,2023-06-08,Headphones,Accessories,2,29999,Cash,,4,
+547,Megan Dunn,Unknown,-5,Ahmedabad,Rajasthan,14/04/2024,Tablet,Electronics,1,-500,UPI,Cancelled,8,False
+548,Laura Scott,Unknown,41,Bengaluru,Karnataka,03-09-2024,Mouse,Accessories,2,599,,Delivered,5,
+549,Dawn Wright,Unknown,150,Ahmedabad,Gujarat,2023-11-29,Phone,Electronics,-2,-500,Card,Pending,-1,True
+550,Jeremy Fuentes,M,22,Mumbai,Delhi,13/05/2024,Headphones,Accessories,-2,-500,,Cancelled,-1,
+551,,Male,150,Ahmedabad,Rajasthan,05-01-2023,Mouse,Accessories,-2,-500,Cash,Delivered,,False
+552,Joseph Ortiz,M,22,Bengaluru,Rajasthan,2023-04-01,Monitor,Electronics,-2,-500,Cash,,3,True
+553,Anthony Rice,F,22,Delhi,Delhi,22/04/2023,Mouse,Accessories,0,29999,,,4,True
+554,Elizabeth Garcia,Unknown,150,Mumbai,Gujarat,12-15-2023,Tablet,Electronics,3,599,Crypto,Delivered,-1,
+555,Brian Lindsey,Unknown,22,Mumbai,Karnataka,2023-07-26,,Accessories,1,599,,Cancelled,3,False
+556,Beverly Robbins,Female,-5,Bengaluru,Gujarat,19/03/2024,Laptop,Electronics,3,-500,,,8,
+557,Michael Rodriguez,M,30,Delhi,Karnataka,04-19-2023,Mouse,Accessories,0,29999,,Pending,5,
+558,Jeffrey Brown,Male,22,,Rajasthan,2023-03-06,Mouse,Accessories,2,-500,,,4,True
+559,Gerald Smith,M,,Bengaluru,Gujarat,12/03/2023,Printer,Electronics,-2,1499,,,-1,False
+560,Jamie Mckay,Female,30,Ahmedabad,Karnataka,07-16-2023,Tablet,Electronics,1,-500,,Pending,-1,False
+561,,Male,22,Bengaluru,Gujarat,2023-07-30,Tablet,Electronics,3,599,Crypto,,3,True
+562,William Frank,M,150,Jaipur,Karnataka,09/01/2024,Monitor,Electronics,-2,599,Card,,3,
+563,Joseph Jensen,F,22,Mumbai,Karnataka,11-21-2023,Monitor,Electronics,1,-500,,,-1,
+564,Donald Roy,Unknown,41,Mumbai,Delhi,2023-06-19,Printer,Electronics,1,29999,,Cancelled,3,
+565,Brittany Garcia,F,22,Mumbai,Karnataka,31/08/2023,Mouse,Accessories,1,29999,,Delivered,4,
+566,Caitlin Kirk,Unknown,30,Bengaluru,Maharashtra,02-09-2023,Monitor,Electronics,3,29999,UPI,Delivered,-1,True
+567,Douglas Gomez,M,41,Delhi,,2024-04-10,Mouse,Accessories,3,1499,,Pending,-1,True
+568,Denise Jones,Female,150,Delhi,Gujarat,25/06/2023,Phone,Electronics,0,-500,Card,,4,True
+569,Eugene Johnson,Male,41,Jaipur,Rajasthan,10-23-2023,Tablet,Electronics,2,-500,,,5,False
+570,Dawn Vargas,M,-5,Ahmedabad,Maharashtra,2024-01-18,Keyboard,Accessories,2,-500,UPI,Cancelled,,False
+571,Marisa Trevino,F,22,Jaipur,Karnataka,15/07/2023,Tablet,Electronics,3,-500,Crypto,Cancelled,5,False
+572,Michael White,Unknown,,Bengaluru,Gujarat,05-17-2023,Phone,Electronics,0,1499,,Pending,-1,False
+573,Brian Savage,Unknown,150,Jaipur,Rajasthan,2023-12-13,Mouse,Accessories,1,599,,Delivered,-1,True
+574,Cody Harris,Unknown,30,Mumbai,Maharashtra,17/12/2023,Headphones,,2,599,UPI,Delivered,3,
+575,James Ramirez,F,22,Jaipur,Rajasthan,12-03-2023,Keyboard,Accessories,-2,1499,,Pending,3,
+576,Kevin Martinez MD,Unknown,-5,Jaipur,Gujarat,2023-04-05,Monitor,Electronics,3,-500,,Cancelled,5,True
+577,Felicia Thomas,Unknown,22,Ahmedabad,Gujarat,04/02/2024,Phone,Electronics,3,599,Cash,Cancelled,4,False
+578,,Female,150,Ahmedabad,Delhi,02-05-2023,Headphones,Accessories,0,599,Card,,4,
+579,Nathaniel Hart,M,41,Jaipur,Rajasthan,2023-11-26,Phone,Electronics,1,599,Crypto,Cancelled,8,True
+580,,Female,22,Jaipur,Gujarat,04/04/2024,Headphones,Accessories,3,1499,,Cancelled,8,
+581,George Morgan,M,-5,Ahmedabad,Rajasthan,01-02-2023,Headphones,Accessories,-2,1499,UPI,,8,True
+582,Franklin Carroll,Unknown,41,Ahmedabad,Rajasthan,2023-10-18,Tablet,Electronics,1,29999,Crypto,Cancelled,3,False
+583,Michelle Williams,Female,30,Bengaluru,Rajasthan,25/01/2024,Monitor,Electronics,0,1499,Cash,,3,
+584,Melissa Chang,M,22,Ahmedabad,Delhi,12-19-2023,Tablet,Electronics,2,599,Card,Delivered,-1,True
+585,Michael Santana,Male,,Bengaluru,Maharashtra,2023-09-08,Printer,Electronics,0,-500,UPI,Delivered,5,True
+586,Troy Weber,M,22,Delhi,Karnataka,22/06/2023,Laptop,Electronics,0,1499,,Pending,3,True
+587,John Jones,M,22,Ahmedabad,Karnataka,01-12-2024,Mouse,Accessories,1,1499,,Pending,3,True
+588,Christopher Williams,Unknown,22,Ahmedabad,Karnataka,2023-11-20,Laptop,Electronics,2,599,UPI,Delivered,8,
+589,Curtis Reese,Male,30,,Gujarat,14/02/2024,Keyboard,Accessories,3,-500,Cash,Delivered,,
+590,Alexander Harris,Unknown,30,Jaipur,Karnataka,10-22-2023,Mouse,Accessories,2,29999,UPI,Delivered,5,True
+591,Christine Malone,Female,41,Bengaluru,Delhi,2024-01-23,Printer,Electronics,0,1499,Crypto,Delivered,4,True
+592,David Taylor,Female,22,Ahmedabad,Rajasthan,10/02/2024,,Electronics,1,599,Card,Delivered,-1,False
+593,Sabrina Jones,Female,30,Delhi,Maharashtra,08-02-2023,Headphones,Accessories,-2,-500,,Pending,4,
+594,Christine Garcia,F,30,Ahmedabad,,2023-12-21,Laptop,Electronics,-2,599,,Cancelled,5,False
+595,,Female,22,Bengaluru,Rajasthan,03/01/2023,Keyboard,Accessories,-2,29999,Crypto,Pending,8,
+596,Mr. Michael Olson,Unknown,22,Delhi,Rajasthan,12-04-2023,Keyboard,Accessories,2,-500,,Pending,4,
+597,Jessica Sellers,Male,41,Mumbai,Delhi,2024-04-17,Laptop,Electronics,0,29999,Cash,,3,True
+598,Nicole Mccoy,F,,Delhi,Delhi,15/01/2024,Laptop,Electronics,1,-500,Crypto,Delivered,3,True
+599,Amber Mclean,F,150,Mumbai,Gujarat,01-05-2024,Headphones,Accessories,2,29999,Card,Delivered,5,True
+600,Amanda Bradley,M,30,Ahmedabad,Delhi,2023-02-20,Keyboard,Accessories,1,-500,Crypto,,3,False
+601,Jonathan Horton,F,-5,Delhi,Gujarat,16/03/2023,Keyboard,Accessories,3,1499,,Pending,5,False
+602,Jennifer Black,Female,22,Bengaluru,Rajasthan,04-14-2023,Tablet,Electronics,3,1499,UPI,,8,False
+603,Brandon Edwards,Female,41,Bengaluru,Delhi,2023-03-29,Tablet,Electronics,-2,1499,Crypto,Pending,3,False
+604,Michael Wilkins,Female,150,Ahmedabad,Gujarat,14/03/2024,Headphones,Accessories,3,599,,,4,True
+605,Shawn Henderson,F,30,Bengaluru,Delhi,06-17-2023,Printer,Electronics,-2,599,,Delivered,3,False
+606,Jonathan Robertson Jr.,M,150,Ahmedabad,Gujarat,2024-01-11,Laptop,Electronics,1,-500,,Pending,3,
+607,Michael Guzman,M,30,Delhi,Maharashtra,21/01/2024,Laptop,Electronics,3,1499,,Delivered,3,False
+608,Stacey Logan,Female,-5,Bengaluru,Karnataka,12-09-2023,Monitor,Electronics,1,-500,,Pending,,
+609,,Unknown,-5,Jaipur,Rajasthan,2023-07-27,Mouse,Accessories,0,29999,Crypto,Delivered,5,False
+610,Mark Martin MD,F,150,Bengaluru,Delhi,21/01/2024,Monitor,Electronics,1,29999,,Delivered,-1,
+611,Michael Benson,Male,,Ahmedabad,Maharashtra,07-06-2023,Laptop,Electronics,0,599,Cash,Cancelled,4,
+612,,F,30,Delhi,Maharashtra,2023-10-14,Phone,Electronics,2,599,,,-1,
+613,Stephen Bates,Unknown,41,Mumbai,Karnataka,18/04/2023,Keyboard,Accessories,0,29999,UPI,Delivered,5,False
+614,Gregory Burch,F,150,Jaipur,Gujarat,08-20-2023,Headphones,Accessories,-2,29999,,Cancelled,3,True
+615,Logan Caldwell,Male,22,Ahmedabad,Delhi,2024-04-01,Headphones,,3,599,UPI,Pending,5,True
+616,Misty Jordan,M,30,Delhi,Karnataka,23/12/2023,Mouse,Accessories,1,29999,,Pending,8,False
+617,Steven Smith,Male,41,Delhi,Rajasthan,08-04-2023,Headphones,Accessories,1,1499,Crypto,Cancelled,8,
+618,Eric Wade,M,150,Bengaluru,Karnataka,2023-06-25,Tablet,Electronics,0,-500,Cash,Pending,5,True
+619,Jodi Jordan,Female,-5,Mumbai,Maharashtra,09/02/2024,Monitor,Electronics,1,1499,Cash,Cancelled,8,True
+620,Anna Rodriguez,F,41,,Delhi,11-13-2023,Mouse,Accessories,2,1499,Card,Pending,3,True
+621,Aimee Brown,M,41,Mumbai,,2023-06-12,Mouse,Accessories,2,1499,Crypto,Delivered,5,False
+622,Stacey Cannon,M,150,Delhi,Karnataka,17/03/2023,Tablet,Electronics,3,599,UPI,,8,True
+623,Michael Green,Unknown,30,Jaipur,Karnataka,04-30-2024,Headphones,Accessories,-2,29999,,Cancelled,8,False
+624,Kaitlyn Hernandez,F,,Ahmedabad,Maharashtra,2024-05-11,Mouse,Accessories,1,-500,UPI,Pending,-1,True
+625,Heather Johnson,M,150,Delhi,Gujarat,07/06/2023,Laptop,Electronics,3,599,Cash,Delivered,-1,
+626,Denise Hendrix,Unknown,30,Jaipur,Rajasthan,04-10-2023,Keyboard,Accessories,-2,-500,,Delivered,-1,False
+627,Deborah Pugh,Unknown,150,Bengaluru,Karnataka,2023-04-10,Headphones,Accessories,1,29999,,Pending,,
+628,Michael Berry,Unknown,-5,Mumbai,Rajasthan,13/03/2024,Printer,Electronics,3,29999,Cash,Cancelled,8,
+629,,M,-5,Ahmedabad,Maharashtra,02-14-2023,,Accessories,2,-500,,,4,
+630,Jerry Young,Female,30,Mumbai,Gujarat,2023-11-03,Phone,Electronics,-2,29999,UPI,,3,True
+631,Christine Lewis,M,30,Bengaluru,Gujarat,29/07/2023,Monitor,Electronics,-2,1499,Card,Pending,8,False
+632,Carol Miller,Male,41,Bengaluru,Maharashtra,10-11-2023,Headphones,Accessories,0,-500,Card,Delivered,3,True
+633,Jeffrey Miller,M,22,Mumbai,Gujarat,2023-05-15,Monitor,Electronics,2,-500,,Pending,3,True
+634,Theresa Rivera,M,22,Bengaluru,Maharashtra,27/01/2024,Monitor,Electronics,-2,-500,Crypto,,5,
+635,Michelle Thomas,Male,41,Bengaluru,Karnataka,12-18-2023,Headphones,Accessories,1,29999,Card,Delivered,4,False
+636,Cheryl Weber,Unknown,30,Jaipur,Maharashtra,2023-08-25,Mouse,Accessories,3,-500,,Cancelled,3,False
+637,Daniel Myers,F,,Delhi,Delhi,30/05/2023,Phone,Electronics,1,1499,Crypto,Cancelled,5,
+638,,Unknown,41,Jaipur,Karnataka,02-14-2024,Monitor,Electronics,-2,29999,Card,Delivered,4,
+639,Mrs. Cynthia Little,M,-5,Mumbai,Delhi,2023-05-25,Tablet,Electronics,1,1499,Card,Pending,4,
+640,Jeffrey Shepherd,M,-5,Jaipur,Rajasthan,11/11/2023,Phone,Electronics,2,599,,Cancelled,5,
+641,David Coleman,M,150,Bengaluru,Maharashtra,07-05-2023,Mouse,Accessories,2,29999,UPI,Delivered,4,True
+642,Joseph Thompson,Female,41,Delhi,Delhi,2024-03-14,Mouse,Accessories,2,599,,Delivered,3,True
+643,Cody Wood,M,22,Delhi,Rajasthan,01/02/2024,Headphones,Accessories,1,599,,Delivered,5,True
+644,Christopher Fuller,Male,22,Jaipur,Karnataka,02-03-2023,Monitor,Electronics,2,1499,Card,Cancelled,3,True
+645,Donna Armstrong,F,41,Mumbai,Delhi,2023-03-16,Monitor,Electronics,-2,1499,Crypto,Delivered,3,
+646,,F,30,Delhi,Maharashtra,26/01/2024,Laptop,Electronics,2,599,,Delivered,,True
+647,George Mcdaniel,Unknown,150,Delhi,Gujarat,04-16-2024,Headphones,Accessories,1,1499,Cash,,8,True
+648,Jason Wright,M,22,Mumbai,,2023-09-21,Keyboard,Accessories,1,-500,UPI,Pending,8,False
+649,Joseph Parker,F,22,Jaipur,Maharashtra,27/12/2023,Monitor,Electronics,0,599,,Cancelled,8,
+650,Daniel Davis,M,,Delhi,Karnataka,01-12-2024,Monitor,Electronics,0,29999,,Pending,3,False
+651,Sarah Bruce,Female,22,,Gujarat,2024-04-25,Tablet,Electronics,1,-500,,Delivered,3,True
+652,Richard Dawson,F,22,Delhi,Rajasthan,22/07/2023,Printer,Electronics,3,1499,Cash,Pending,-1,False
+653,Joshua Parker,M,-5,Mumbai,Karnataka,03-04-2023,Keyboard,Accessories,-2,29999,,,5,False
+654,Michael Allen,M,150,Mumbai,Delhi,2023-12-08,Printer,Electronics,0,599,UPI,Cancelled,8,False
+655,John Kennedy,Male,22,Jaipur,Rajasthan,29/04/2023,Mouse,Accessories,0,599,Card,,-1,
+656,Javier Marquez,Unknown,150,Bengaluru,Rajasthan,06-17-2023,Mouse,,1,-500,,Pending,5,
+657,Erin Blevins,F,41,Bengaluru,Maharashtra,2023-09-12,Headphones,Accessories,-2,599,UPI,,3,False
+658,Deborah Rose,M,-5,Ahmedabad,Rajasthan,19/08/2023,Tablet,Electronics,1,1499,Crypto,Cancelled,4,False
+659,Kathleen Adams,Unknown,-5,Ahmedabad,Rajasthan,08-09-2023,Mouse,Accessories,-2,-500,,,8,
+660,Brian Montgomery,F,22,Ahmedabad,Maharashtra,2024-03-13,Mouse,Accessories,0,-500,Crypto,Cancelled,5,False
+661,Jamie Frank,F,22,Delhi,Maharashtra,01/02/2023,Laptop,Electronics,3,599,,Cancelled,8,True
+662,Christopher Parsons,Unknown,-5,Mumbai,Rajasthan,08-08-2023,Tablet,Electronics,2,1499,Card,Cancelled,-1,True
+663,,Unknown,,Jaipur,Maharashtra,2024-04-11,Phone,Electronics,2,599,Crypto,Cancelled,3,False
+664,Anthony Watson,F,150,Ahmedabad,Maharashtra,03/12/2023,Printer,Electronics,1,-500,Crypto,Delivered,5,False
+665,Amy Valdez,Unknown,150,Jaipur,Gujarat,10-20-2023,Printer,Electronics,1,1499,Cash,,,
+666,Chelsea Gilbert,Female,150,Mumbai,Maharashtra,2024-02-20,,Electronics,0,1499,,Delivered,-1,True
+667,,Male,41,Bengaluru,Gujarat,28/05/2023,Monitor,Electronics,2,599,,Delivered,-1,False
+668,Diane Medina,F,150,Ahmedabad,Gujarat,05-20-2023,Phone,Electronics,2,29999,UPI,Cancelled,-1,False
+669,Lisa Holmes,Female,-5,Ahmedabad,Maharashtra,2023-08-10,Tablet,Electronics,-2,-500,,Pending,3,
+670,Sara Warner,F,-5,Delhi,Gujarat,27/12/2023,Mouse,Accessories,3,-500,Crypto,Delivered,-1,True
+671,Virginia Franco,Female,30,Delhi,Maharashtra,07-06-2023,Headphones,Accessories,0,-500,Cash,Delivered,4,False
+672,Alicia Butler,Female,41,Bengaluru,Delhi,2023-05-17,Monitor,Electronics,0,1499,UPI,Pending,4,True
+673,Kelly Mays,M,-5,Bengaluru,Gujarat,06/05/2023,Monitor,Electronics,0,599,Card,Pending,5,True
+674,Kathleen Jacobson,Unknown,150,Delhi,Rajasthan,01-15-2023,Monitor,Electronics,0,599,UPI,Delivered,5,
+675,Samantha Fuller,M,41,Jaipur,,2023-06-02,Phone,Electronics,0,1499,Card,Delivered,-1,
+676,Kristin Cook,F,,Bengaluru,Karnataka,14/09/2023,Phone,Electronics,3,-500,UPI,Pending,-1,True
+677,Sean Goodwin,Unknown,150,Ahmedabad,Delhi,01-31-2024,Tablet,Electronics,0,1499,Card,Delivered,4,True
+678,Michael Ross DVM,M,-5,Mumbai,Karnataka,2024-05-11,Monitor,Electronics,1,-500,Crypto,Cancelled,3,False
+679,Carol Wood,M,30,Mumbai,Delhi,07/10/2023,Printer,Electronics,3,-500,,Cancelled,5,True
+680,,Male,30,Mumbai,Karnataka,11-27-2023,Laptop,Electronics,0,29999,,Cancelled,3,
+681,Donald Terrell,M,-5,Jaipur,Gujarat,2024-03-19,Keyboard,Accessories,3,29999,UPI,Pending,5,True
+682,Michelle Nelson,M,41,,Gujarat,16/03/2024,Mouse,Accessories,1,29999,UPI,,8,
+683,Amanda Skinner,M,22,Delhi,Maharashtra,07-31-2023,Tablet,Electronics,-2,599,Cash,,-1,
+684,Kenneth Barnett,M,22,Jaipur,Delhi,2024-02-21,Tablet,Electronics,0,1499,UPI,,,True
+685,Sara Pierce,Unknown,150,Jaipur,Rajasthan,18/11/2023,Monitor,Electronics,2,1499,Crypto,Pending,-1,
+686,Mrs. Lori Watson,M,-5,Delhi,Maharashtra,07-30-2023,Tablet,Electronics,2,29999,Cash,Pending,3,False
+687,Kim Myers,M,-5,Bengaluru,Delhi,2023-07-08,Mouse,Accessories,1,599,Crypto,Pending,3,False
+688,Melissa Ramirez,Female,22,Ahmedabad,Karnataka,12/04/2023,Monitor,Electronics,0,29999,Card,Delivered,5,True
+689,Jeremy Stewart,Male,,Bengaluru,Gujarat,04-29-2024,Phone,Electronics,0,-500,UPI,Pending,4,True
+690,Molly Collier,Unknown,-5,Ahmedabad,Delhi,2024-04-29,Monitor,Electronics,0,1499,Crypto,Pending,5,
+691,Amanda Perez,M,30,Ahmedabad,Delhi,13/12/2023,Keyboard,Accessories,1,29999,Cash,Pending,-1,False
+692,Antonio Brown,Unknown,150,Ahmedabad,Rajasthan,04-09-2024,Keyboard,Accessories,1,-500,Card,Cancelled,8,
+693,Heather Wheeler DVM,M,150,Mumbai,Rajasthan,2023-04-19,Printer,Electronics,1,599,UPI,Cancelled,4,False
+694,Isabella Martin PhD,F,150,Jaipur,Rajasthan,10/04/2024,Tablet,Electronics,3,-500,Cash,,5,True
+695,Belinda Roberts,F,30,Mumbai,Delhi,05-10-2024,Laptop,Electronics,-2,-500,Cash,,4,True
+696,,Female,41,Jaipur,Maharashtra,2023-06-12,Printer,Electronics,1,1499,,Cancelled,5,False
+697,,F,41,Bengaluru,Maharashtra,25/05/2023,Monitor,,0,1499,Cash,,4,
+698,Joseph Hernandez,Male,30,Delhi,Rajasthan,03-12-2024,Headphones,Accessories,2,1499,UPI,,5,True
+699,Mary Campos,M,22,Ahmedabad,Rajasthan,2023-12-28,Headphones,Accessories,0,29999,,,8,False
+700,Nathan Davis,Male,41,Jaipur,Delhi,27/02/2023,Mouse,Accessories,3,1499,Card,Cancelled,-1,
+701,Connie Rivera,F,22,Bengaluru,Karnataka,10-27-2023,Keyboard,Accessories,2,-500,UPI,Pending,8,
+702,Darlene Perry,Male,,Mumbai,,2023-02-18,Tablet,Electronics,1,-500,Cash,Delivered,5,True
+703,Michele Lewis,M,-5,Ahmedabad,Maharashtra,15/01/2023,,Electronics,-2,599,Cash,Delivered,,
+704,Dawn Morgan,Unknown,150,Delhi,Delhi,11-15-2023,Headphones,Accessories,1,29999,Cash,Delivered,3,
+705,Samuel Steele,Male,-5,Mumbai,Delhi,2024-05-02,Printer,Electronics,2,-500,UPI,Delivered,4,True
+706,Jackson Rice,Unknown,30,Jaipur,Maharashtra,18/07/2023,Printer,Electronics,0,-500,,Cancelled,-1,True
+707,Joshua Lewis,Unknown,150,Delhi,Gujarat,07-03-2023,Phone,Electronics,0,-500,,Cancelled,-1,
+708,Robin Reid,M,41,Bengaluru,Delhi,2023-08-05,Phone,Electronics,0,-500,UPI,Delivered,-1,False
+709,Ricardo Brown,Female,30,Ahmedabad,Karnataka,13/05/2024,Headphones,Accessories,-2,599,Cash,,8,True
+710,David Maxwell,Unknown,30,Delhi,Maharashtra,04-09-2024,Headphones,Accessories,2,-500,Cash,Delivered,-1,True
+711,Jordan Anderson,F,22,Bengaluru,Gujarat,2024-04-14,Laptop,Electronics,0,599,,Cancelled,5,False
+712,Alicia Brown,F,22,Jaipur,Gujarat,27/10/2023,Phone,Electronics,2,1499,,Delivered,3,False
+713,Victor George,Unknown,150,,Gujarat,03-24-2024,Monitor,Electronics,0,29999,Cash,Pending,4,True
+714,,Male,-5,Bengaluru,Rajasthan,2023-02-10,Monitor,Electronics,1,-500,UPI,Delivered,4,
+715,Charles Oneill,M,,Bengaluru,Gujarat,02/09/2023,Headphones,Accessories,3,29999,,,5,True
+716,Matthew Thompson,Male,30,Jaipur,Rajasthan,03-06-2023,Mouse,Accessories,2,599,Card,,4,
+717,Candace Graham,F,30,Jaipur,Maharashtra,2023-05-04,Printer,Electronics,0,1499,,,3,True
+718,Steve Smith,M,-5,Ahmedabad,Rajasthan,27/03/2023,Mouse,Accessories,0,1499,Card,Cancelled,-1,False
+719,Robert Smith,Male,22,Ahmedabad,Gujarat,01-27-2023,Tablet,Electronics,0,29999,UPI,,8,False
+720,Virginia Johnson,Female,22,Bengaluru,Rajasthan,2023-09-20,Headphones,Accessories,0,29999,Crypto,Delivered,5,
+721,Tiffany Hayes,Male,-5,Bengaluru,Maharashtra,02/08/2023,Headphones,Accessories,0,-500,UPI,Pending,5,
+722,Heather Lane,Unknown,-5,Delhi,Karnataka,04-09-2023,Headphones,Accessories,2,29999,Crypto,,,True
+723,Laura Klein,M,-5,Mumbai,Gujarat,2024-03-28,Monitor,Electronics,2,1499,Cash,Delivered,8,True
+724,Michael Riggs,Female,150,Ahmedabad,Rajasthan,30/03/2023,Keyboard,Accessories,0,-500,Cash,Pending,4,
+725,,Unknown,41,Mumbai,Delhi,01-25-2023,Laptop,Electronics,2,599,UPI,Cancelled,8,True
+726,Cole Swanson,Male,150,Delhi,Gujarat,2023-11-13,Keyboard,Accessories,3,29999,Cash,Delivered,-1,False
+727,Lynn Weiss,F,150,Jaipur,Rajasthan,03/04/2024,Mouse,Accessories,0,-500,UPI,Delivered,-1,
+728,Jake Cook,F,,Jaipur,Karnataka,02-05-2024,Phone,Electronics,1,1499,,Delivered,4,False
+729,Katherine Williams,M,150,Ahmedabad,,2023-03-22,Monitor,Electronics,1,1499,,Cancelled,5,True
+730,Anthony Rodriguez,M,-5,Jaipur,Delhi,04/03/2023,Keyboard,Accessories,0,29999,Cash,Pending,3,False
+731,,Unknown,30,Delhi,Karnataka,07-10-2023,Printer,Electronics,0,1499,Card,,8,False
+732,Daniel Sanchez,F,41,Jaipur,Gujarat,2024-04-04,Headphones,Accessories,2,599,,Delivered,3,False
+733,Jacob Baxter,Female,-5,Jaipur,Gujarat,11/06/2023,Printer,Electronics,1,1499,Crypto,Delivered,-1,False
+734,Linda Willis,F,41,Mumbai,Maharashtra,08-03-2023,Printer,Electronics,1,29999,Crypto,Pending,8,False
+735,Suzanne Miller,F,150,Bengaluru,Gujarat,2023-11-26,Keyboard,Accessories,3,-500,Card,Cancelled,3,True
+736,Alison Reyes,M,30,Bengaluru,Karnataka,03/10/2023,Tablet,Electronics,3,1499,UPI,Cancelled,-1,False
+737,Kelly Sanford,Male,22,Bengaluru,Karnataka,01-23-2024,Mouse,Accessories,3,1499,Cash,,-1,True
+738,Joseph Estrada,Unknown,41,Bengaluru,Maharashtra,2024-01-10,Laptop,,1,599,,Delivered,8,False
+739,Zachary Pham,M,41,Delhi,Karnataka,21/10/2023,Laptop,Electronics,-2,1499,Cash,Cancelled,5,
+740,Rebecca Roberts,M,150,Delhi,Rajasthan,02-06-2024,,Accessories,3,1499,Cash,,3,True
+741,Eric Weaver,M,,Jaipur,Rajasthan,2023-12-31,Printer,Electronics,1,-500,Card,,,True
+742,Jacob Swanson,Unknown,150,Ahmedabad,Karnataka,17/08/2023,Phone,Electronics,-2,-500,Cash,,8,False
+743,Tamara Lopez,M,30,Delhi,Karnataka,12-19-2023,Headphones,Accessories,2,-500,,,4,
+744,Amanda Joseph,Female,-5,,Gujarat,2023-09-20,Phone,Electronics,1,1499,Crypto,Cancelled,3,
+745,Daniel Smith,Male,22,Mumbai,Karnataka,12/03/2024,Printer,Electronics,3,599,Crypto,Pending,3,False
+746,Shaun Bullock,Unknown,41,Ahmedabad,Rajasthan,06-06-2023,Tablet,Electronics,2,1499,Crypto,,3,False
+747,Rita Torres,Female,30,Ahmedabad,Rajasthan,2024-03-31,Monitor,Electronics,1,29999,UPI,Delivered,8,False
+748,,F,-5,Mumbai,Gujarat,21/10/2023,Monitor,Electronics,0,1499,Card,,8,
+749,Jay Davis,Unknown,22,Bengaluru,Karnataka,08-18-2023,Mouse,Accessories,0,-500,Card,,5,
+750,Stephen Johnson,Unknown,22,Delhi,Rajasthan,2023-01-24,Headphones,Accessories,-2,29999,Crypto,Delivered,-1,True
+751,Gregory Pham,F,150,Delhi,Gujarat,09/04/2023,Laptop,Electronics,-2,599,UPI,Pending,3,False
+752,Lisa Black,Female,150,Ahmedabad,Rajasthan,02-07-2024,Keyboard,Accessories,-2,29999,,Delivered,8,True
+753,Kelly Thompson,Female,-5,Jaipur,Karnataka,2023-06-24,Printer,Electronics,3,-500,Cash,Delivered,3,True
+754,,Unknown,,Delhi,Delhi,05/10/2023,Mouse,Accessories,3,599,Card,Cancelled,8,
+755,Jonathan Mann,F,41,Delhi,Rajasthan,03-28-2023,Laptop,Electronics,1,29999,,Delivered,5,True
+756,Corey Miller,Unknown,-5,Jaipur,,2023-07-31,Tablet,Electronics,1,1499,Card,Pending,8,
+757,Eric Fisher,Male,41,Jaipur,Maharashtra,21/01/2024,Printer,Electronics,0,-500,UPI,,3,False
+758,Kayla White,Male,41,Bengaluru,Karnataka,11-21-2023,Keyboard,Accessories,1,1499,Crypto,Pending,5,
+759,Dalton Bowers,Male,150,Delhi,Delhi,2023-07-28,Headphones,Accessories,3,1499,Card,,-1,False
+760,Barbara Sullivan,M,150,Mumbai,Delhi,22/01/2023,Laptop,Electronics,1,599,,Cancelled,,
+761,Kenneth Hill,Unknown,30,Bengaluru,Karnataka,05-09-2023,Printer,Electronics,3,599,Card,Delivered,5,True
+762,Manuel Miller,Female,150,Mumbai,Gujarat,2023-07-22,Phone,Electronics,2,29999,,Cancelled,5,
+763,John Brown,Female,41,Mumbai,Delhi,20/08/2023,Monitor,Electronics,0,29999,UPI,Pending,3,
+764,Joyce Newman,Male,30,Ahmedabad,Karnataka,09-01-2023,Laptop,Electronics,0,-500,Crypto,Delivered,3,
+765,,Male,41,Ahmedabad,Karnataka,2023-01-16,Headphones,Accessories,3,-500,Card,Delivered,3,False
+766,Kimberly Osborn,M,22,Delhi,Rajasthan,09/07/2023,Keyboard,Accessories,3,29999,Card,Delivered,-1,
+767,Anthony Beard,Female,,Ahmedabad,Maharashtra,06-05-2023,Keyboard,Accessories,1,29999,,Pending,3,True
+768,Robert Bradley,Male,41,Bengaluru,Karnataka,2024-02-25,Printer,Electronics,0,1499,Crypto,Pending,-1,
+769,Jackie Vincent,Male,150,Delhi,Rajasthan,16/12/2023,Mouse,Accessories,2,29999,Crypto,Pending,-1,
+770,Jessica Ward,Female,22,Bengaluru,Karnataka,02-05-2024,Monitor,Electronics,3,-500,UPI,,3,False
+771,Justin Conrad,Unknown,22,Bengaluru,Gujarat,2023-08-10,Printer,Electronics,0,29999,Crypto,Delivered,4,True
+772,Vincent Morgan,F,-5,Mumbai,Rajasthan,23/05/2023,Printer,Electronics,0,1499,Cash,Delivered,-1,True
+773,Yesenia Gray,M,22,Delhi,Delhi,01-13-2024,Keyboard,Accessories,2,29999,Cash,Delivered,3,True
+774,Morgan Schroeder,Male,150,Mumbai,Maharashtra,2023-09-03,Printer,Electronics,2,599,,Pending,5,True
+775,Michael Flores,F,30,,Rajasthan,25/02/2024,Tablet,Electronics,-2,-500,UPI,,-1,True
+776,Andrew Hayes,Male,-5,Mumbai,Rajasthan,02-13-2023,Laptop,Electronics,2,599,,Delivered,5,
+777,Michelle Collins,Male,22,Jaipur,Karnataka,2023-11-17,,Electronics,1,29999,,,3,
+778,Natasha Robinson,Female,150,Bengaluru,Rajasthan,21/01/2024,Printer,Electronics,0,-500,,,-1,
+779,Emily Ho,Male,-5,Bengaluru,Maharashtra,02-21-2023,Tablet,,-2,1499,UPI,Delivered,,True
+780,Cindy Garcia,F,,Delhi,Karnataka,2023-11-01,Phone,Electronics,2,29999,Cash,,8,
+781,Angel Conley,Female,30,Delhi,Rajasthan,14/11/2023,Headphones,Accessories,1,1499,Cash,,-1,
+782,,Unknown,150,Bengaluru,Delhi,01-22-2024,Tablet,Electronics,2,-500,Cash,Cancelled,5,False
+783,,F,150,Delhi,,2024-05-11,Laptop,Electronics,1,1499,Crypto,Delivered,8,False
+784,Andrew Johnson,Female,22,Mumbai,Delhi,11/04/2023,Keyboard,Accessories,0,-500,Crypto,Cancelled,-1,
+785,Leslie Ramos,F,41,Ahmedabad,Maharashtra,05-08-2024,Tablet,Electronics,2,599,,Delivered,8,True
+786,Allison Chandler,Female,30,Ahmedabad,Karnataka,2024-04-16,Laptop,Electronics,2,1499,,Cancelled,8,True
+787,Michael Reed,Male,41,Jaipur,Rajasthan,24/07/2023,Mouse,Accessories,3,599,Crypto,Delivered,4,False
+788,Jonathan Smith,F,41,Jaipur,Rajasthan,08-14-2023,Keyboard,Accessories,2,1499,Cash,Pending,4,False
+789,Benjamin Adams,Unknown,150,Delhi,Delhi,2024-01-04,Mouse,Accessories,2,599,Card,Cancelled,3,True
+790,William Lambert,M,22,Mumbai,Delhi,01/03/2024,Mouse,Accessories,3,-500,Card,Cancelled,5,
+791,Kimberly Dixon,Male,22,Delhi,Delhi,03-29-2023,Printer,Electronics,2,1499,Crypto,,5,False
+792,Brian Farley,Female,22,Bengaluru,Karnataka,2023-11-03,Printer,Electronics,2,29999,Card,Cancelled,4,True
+793,Samuel Wright,Female,,Bengaluru,Karnataka,19/11/2023,Monitor,Electronics,0,1499,,Delivered,8,
+794,Chelsea Burns,Female,150,Ahmedabad,Karnataka,11-11-2023,Phone,Electronics,3,-500,Crypto,,4,False
+795,Hailey Reyes,F,-5,Ahmedabad,Gujarat,2023-12-31,Tablet,Electronics,3,-500,,Delivered,4,True
+796,Dr. Travis Miller,M,30,Ahmedabad,Delhi,03/04/2024,Keyboard,Accessories,3,-500,,Pending,5,False
+797,Gina Harding,Female,22,Mumbai,Gujarat,10-09-2023,Phone,Electronics,-2,29999,Card,Delivered,8,
+798,Steven Mueller,M,-5,Ahmedabad,Gujarat,2023-11-15,Tablet,Electronics,0,29999,,Cancelled,,False
+799,,Female,-5,Delhi,Maharashtra,15/07/2023,Laptop,Electronics,1,29999,UPI,Cancelled,-1,
+800,Cassandra Hamilton,Unknown,30,Jaipur,Rajasthan,10-07-2023,Phone,Electronics,1,29999,UPI,Pending,5,True
+801,Taylor Huang,Unknown,41,Mumbai,Delhi,2023-12-12,Tablet,Electronics,-2,1499,,Cancelled,3,False
+802,Patrick Davis,M,-5,Bengaluru,Rajasthan,25/05/2023,Tablet,Electronics,0,1499,,Pending,4,
+803,Austin Riggs,M,30,Bengaluru,Karnataka,01-19-2024,Keyboard,Accessories,-2,-500,,,5,True
+804,Brandon Barber,M,-5,Delhi,Gujarat,2023-06-10,Keyboard,Accessories,0,599,Cash,Pending,-1,True
+805,Christopher Barber III,M,41,Mumbai,Delhi,06/06/2023,Laptop,Electronics,0,-500,,,-1,False
+806,Michael Tapia,F,,,Rajasthan,06-16-2023,Laptop,Electronics,2,1499,Cash,,8,True
+807,Benjamin Taylor,Male,150,Ahmedabad,Delhi,2024-04-30,Printer,Electronics,0,599,Cash,,5,True
+808,Beth Smith,F,30,Jaipur,Karnataka,29/03/2023,Phone,Electronics,0,599,Card,Pending,3,False
+809,Michelle Hines,Female,41,Bengaluru,Rajasthan,05-26-2023,Keyboard,Accessories,0,599,Cash,Delivered,4,False
+810,John King,M,30,Jaipur,,2024-03-16,Printer,Electronics,2,-500,,Delivered,8,True
+811,Betty Ayala,Unknown,-5,Ahmedabad,Delhi,08/03/2023,Keyboard,Accessories,-2,29999,Crypto,Pending,-1,
+812,,Unknown,30,Jaipur,Delhi,12-17-2023,Headphones,Accessories,0,599,,Pending,-1,False
+813,Mary Molina,M,-5,Bengaluru,Rajasthan,2024-04-11,Headphones,Accessories,1,29999,,,5,
+814,Corey Greene,M,150,Delhi,Gujarat,07/03/2024,,Electronics,2,1499,Crypto,,8,False
+815,Mary Mckee,F,22,Ahmedabad,Rajasthan,04-11-2024,Mouse,Accessories,2,1499,Cash,Cancelled,3,
+816,,M,-5,Bengaluru,Rajasthan,2024-01-07,Keyboard,Accessories,3,599,UPI,Cancelled,8,False
+817,Cole Manning,Female,150,Jaipur,Gujarat,26/03/2023,Monitor,Electronics,1,599,,,,False
+818,Richard Daniels,Female,-5,Jaipur,Rajasthan,06-25-2023,Printer,Electronics,3,599,,Pending,5,
+819,Alexis Lopez DVM,M,,Ahmedabad,Rajasthan,2024-01-19,Headphones,Accessories,1,1499,,,4,False
+820,John Summers,Female,30,Jaipur,Karnataka,25/02/2024,Monitor,,1,1499,Cash,Delivered,-1,
+821,Andrew Clark,Male,22,Mumbai,Delhi,07-20-2023,Mouse,Accessories,0,29999,Card,Pending,3,
+822,Theresa Houston,M,22,Bengaluru,Rajasthan,2023-09-30,Keyboard,Accessories,0,29999,,Delivered,-1,True
+823,Clinton Coleman,Female,30,Mumbai,Delhi,25/01/2023,Printer,Electronics,2,599,UPI,,3,True
+824,Darren Fisher,Male,30,Jaipur,Delhi,06-22-2023,Keyboard,Accessories,2,599,,Delivered,5,False
+825,Cassandra Taylor,F,30,Bengaluru,Gujarat,2023-10-15,Keyboard,Accessories,0,599,Card,Pending,3,False
+826,Gregory Holmes,Male,-5,Mumbai,Rajasthan,15/06/2023,Mouse,Accessories,0,1499,,Pending,3,
+827,Danielle Graves,F,41,Jaipur,Rajasthan,02-22-2024,Monitor,Electronics,2,-500,Cash,,3,
+828,Caleb Galloway,Unknown,22,Bengaluru,Maharashtra,2023-10-02,Mouse,Accessories,0,1499,Cash,Pending,5,
+829,Michael Cantu,Unknown,22,Bengaluru,Karnataka,04/09/2023,Phone,Electronics,0,-500,Crypto,Pending,-1,
+830,Jacob Flores,Female,22,Bengaluru,Rajasthan,12-27-2023,Laptop,Electronics,3,1499,,,4,
+831,Monica Turner,Female,41,Ahmedabad,Maharashtra,2023-02-10,Laptop,Electronics,2,1499,,Pending,3,True
+832,Amber Jones,Unknown,,Delhi,Maharashtra,17/04/2024,Headphones,Accessories,3,599,Crypto,,5,True
+833,,Unknown,30,Delhi,Karnataka,04-28-2023,Tablet,Electronics,1,1499,,Pending,-1,False
+834,Jennifer Salazar,Female,-5,Jaipur,Rajasthan,2023-09-24,Tablet,Electronics,0,599,Card,Delivered,4,True
+835,Thomas Taylor,Female,150,Bengaluru,Delhi,06/03/2023,Phone,Electronics,2,599,,,5,True
+836,Anthony Phillips,Female,-5,Delhi,Karnataka,01-05-2024,Keyboard,Accessories,2,29999,Cash,,,
+837,Jessica Beck,M,22,,,2023-04-14,Monitor,Electronics,3,-500,,Pending,8,False
+838,Wesley Lloyd,Female,-5,Jaipur,Gujarat,05/08/2023,Printer,Electronics,0,599,Cash,Pending,-1,
+839,Joy Jackson,M,-5,Mumbai,Gujarat,03-31-2023,Monitor,Electronics,3,-500,Crypto,,3,False
+840,Jonathan Hunter,Female,30,Delhi,Rajasthan,2023-03-11,Headphones,Accessories,1,29999,,,8,False
+841,,M,-5,Mumbai,Karnataka,11/05/2024,Tablet,Electronics,1,-500,UPI,Delivered,8,
+842,Paul Curtis,M,41,Mumbai,Karnataka,03-25-2023,Keyboard,Accessories,0,29999,,Delivered,8,False
+843,Troy Brown,Female,-5,Jaipur,Maharashtra,2024-01-12,Keyboard,Accessories,1,1499,Cash,,4,False
+844,Aaron Morton,Male,22,Jaipur,Gujarat,07/05/2023,Mouse,Accessories,0,599,Crypto,Pending,8,True
+845,Dominic Farley,Unknown,,Mumbai,Karnataka,02-29-2024,Printer,Electronics,-2,-500,Crypto,Cancelled,8,
+846,Caleb Sanchez,Male,150,Mumbai,Delhi,2024-03-21,Phone,Electronics,3,1499,,,5,True
+847,Timothy Davis,Male,22,Jaipur,Gujarat,28/03/2023,Headphones,Accessories,-2,-500,,Cancelled,8,True
+848,Brian Delgado,Female,30,Delhi,Gujarat,04-01-2023,Tablet,Electronics,2,599,,Pending,4,True
+849,Michael Miller,Female,41,Ahmedabad,Gujarat,2023-01-31,Mouse,Accessories,-2,599,,Pending,3,False
+850,,Male,41,Jaipur,Maharashtra,13/02/2023,Printer,Electronics,1,1499,,,3,True
+851,Kenneth Morgan,Male,150,Jaipur,Rajasthan,02-01-2023,,Electronics,2,599,,Cancelled,8,False
+852,Steven English,F,-5,Mumbai,Maharashtra,2024-01-23,Tablet,Electronics,3,29999,Card,Cancelled,8,False
+853,Brian Fisher,Unknown,41,Jaipur,Rajasthan,09/11/2023,Laptop,Electronics,0,-500,,Pending,3,
+854,Sandra Roberts,Female,41,Ahmedabad,Karnataka,03-04-2023,Monitor,Electronics,0,-500,,Pending,3,
+855,Robert King,Male,41,Jaipur,Maharashtra,2024-05-05,Tablet,Electronics,0,1499,Crypto,,,False
+856,Richard Lee,Unknown,-5,Ahmedabad,Rajasthan,14/01/2024,Phone,Electronics,0,29999,Crypto,Pending,4,
+857,Joseph Ramirez,Female,-5,Jaipur,Maharashtra,03-24-2024,Laptop,Electronics,-2,-500,Card,,3,False
+858,Joseph Young,Female,,Delhi,Delhi,2023-12-06,Keyboard,Accessories,1,599,,Delivered,4,False
+859,Sherri Smith,Unknown,30,Mumbai,Gujarat,07/04/2024,Printer,Electronics,1,1499,Crypto,,3,
+860,Jessica Harris,F,150,Jaipur,Maharashtra,06-20-2023,Keyboard,Accessories,0,-500,,,4,True
+861,Madison Bennett,Unknown,22,Jaipur,Rajasthan,2023-05-13,Phone,,3,1499,,Delivered,-1,False
+862,Eric Fletcher,M,150,Jaipur,Maharashtra,07/03/2023,Tablet,Electronics,1,1499,,,5,False
+863,Dr. Elizabeth Bell MD,F,150,Bengaluru,Delhi,02-13-2024,Mouse,Accessories,1,-500,UPI,,5,True
+864,Vincent Martinez,Female,-5,Ahmedabad,,2024-02-22,Monitor,Electronics,2,29999,Card,Delivered,-1,False
+865,Kenneth Morton,Unknown,150,Ahmedabad,Delhi,08/06/2023,Phone,Electronics,0,29999,,,3,False
+866,Michael Brown,Female,22,Delhi,Gujarat,03-20-2023,Keyboard,Accessories,0,29999,,Pending,3,
+867,,M,-5,Mumbai,Gujarat,2023-07-20,Tablet,Electronics,0,599,Crypto,Cancelled,5,
+868,Samuel Brown,F,-5,,Rajasthan,17/04/2024,Keyboard,Accessories,2,29999,Crypto,Delivered,5,False
+869,Elizabeth Lane,F,30,Ahmedabad,Gujarat,12-02-2023,Mouse,Accessories,3,1499,Card,Pending,4,
+870,,Unknown,150,Jaipur,Delhi,2023-11-30,Laptop,Electronics,0,-500,,Pending,3,True
+871,Jessica Pruitt,Female,,Jaipur,Rajasthan,02/07/2023,Headphones,Accessories,-2,29999,Crypto,,4,
+872,Melissa Wright,Female,22,Jaipur,Delhi,01-05-2024,Printer,Electronics,0,-500,Cash,Pending,8,
+873,Mary Murray,M,-5,Mumbai,Gujarat,2024-02-12,Phone,Electronics,3,599,UPI,Delivered,3,True
+874,Nicole Smith,Male,150,Bengaluru,Karnataka,08/09/2023,Keyboard,Accessories,0,29999,,Delivered,,
+875,Margaret Barnes,M,-5,Mumbai,Karnataka,04-03-2023,Printer,Electronics,2,599,Cash,Delivered,-1,True
+876,David Novak,M,150,Bengaluru,Karnataka,2023-07-27,Laptop,Electronics,0,599,Crypto,Delivered,4,
+877,Kelsey Davis,Female,150,Delhi,Rajasthan,04/04/2024,Phone,Electronics,-2,-500,Cash,Delivered,3,True
+878,Lori Zhang,Female,22,Bengaluru,Maharashtra,10-22-2023,Keyboard,Accessories,1,599,UPI,Cancelled,5,
+879,Patricia Arnold,Male,30,Mumbai,Rajasthan,2023-03-29,Printer,Electronics,-2,29999,,,4,
+880,Jessica Hernandez,F,41,Bengaluru,Karnataka,09/09/2023,Tablet,Electronics,-2,1499,,Delivered,3,True
+881,Jennifer Garcia,Female,41,Delhi,Delhi,01-19-2023,Keyboard,Accessories,-2,1499,Crypto,Cancelled,5,True
+882,Bethany Collins,Male,150,Mumbai,Maharashtra,2024-01-09,Printer,Electronics,0,1499,,,3,False
+883,Carrie Bowman,Female,150,Delhi,Rajasthan,13/12/2023,Printer,Electronics,3,1499,,Cancelled,-1,
+884,,M,,Delhi,Maharashtra,11-28-2023,Mouse,Accessories,0,-500,UPI,Pending,3,False
+885,Krista Larson,F,-5,Jaipur,Maharashtra,2023-03-05,Phone,Electronics,1,29999,Cash,Cancelled,4,True
+886,Derek Peterson,Male,-5,Delhi,Gujarat,21/05/2023,Laptop,Electronics,1,599,Card,Cancelled,-1,False
+887,Sandra Scott,F,41,Bengaluru,Maharashtra,02-18-2023,Tablet,Electronics,-2,599,UPI,Pending,5,False
+888,Jeffrey Burns,F,150,Bengaluru,Gujarat,2023-04-03,,Electronics,0,1499,Cash,Delivered,-1,
+889,April Dennis,Female,-5,Bengaluru,Maharashtra,21/03/2023,Mouse,Accessories,1,29999,,Pending,-1,False
+890,Heather Vasquez,Female,-5,Mumbai,Gujarat,12-28-2023,Headphones,Accessories,-2,29999,Cash,,-1,
+891,Melanie Jordan,Unknown,22,Mumbai,,2024-03-27,Keyboard,Accessories,0,29999,UPI,Delivered,3,
+892,Thomas Henderson,Female,150,Jaipur,Rajasthan,03/05/2023,Phone,Electronics,3,-500,UPI,,-1,
+893,Scott Nelson,M,150,Bengaluru,Rajasthan,03-11-2023,Headphones,Accessories,0,599,Crypto,Pending,,
+894,Joshua Murphy,F,41,Delhi,Karnataka,2023-01-04,Printer,Electronics,-2,599,Crypto,,4,
+895,Clayton Pearson MD,Female,22,Mumbai,Delhi,21/04/2024,Keyboard,Accessories,-2,29999,UPI,,8,False
+896,Manuel Williams,Male,41,Delhi,Karnataka,03-29-2023,Tablet,Electronics,1,29999,Cash,,5,False
+897,Charles Crawford,F,,Ahmedabad,Delhi,2023-04-20,Laptop,Electronics,3,599,,,3,False
+898,Michael Benjamin,Unknown,41,Mumbai,Rajasthan,04/01/2023,Headphones,Accessories,1,29999,,Pending,8,False
+899,,M,-5,,Delhi,01-05-2023,Phone,Electronics,1,1499,,Delivered,8,True
+900,Kelly Brown,Female,-5,Ahmedabad,Maharashtra,2023-03-21,Monitor,Electronics,3,29999,,Pending,-1,False
+901,,M,30,Delhi,Maharashtra,25/02/2023,Headphones,Accessories,0,599,Cash,Pending,3,True
+902,Cheryl Farmer,Female,-5,Ahmedabad,Maharashtra,05-26-2023,Laptop,,1,1499,,Pending,8,
+903,Donald Moody,M,-5,Bengaluru,Gujarat,2023-05-17,Phone,Electronics,2,29999,,,4,True
+904,Susan Li,Male,30,Delhi,Maharashtra,05/05/2024,Phone,Electronics,-2,599,,Pending,3,
+905,Tammy Kline,M,150,Jaipur,Gujarat,02-29-2024,Tablet,Electronics,0,29999,Cash,,3,False
+906,Molly Li,F,30,Delhi,Maharashtra,2023-05-07,Mouse,Accessories,1,29999,,Pending,8,True
+907,David Mitchell,F,150,Delhi,Delhi,31/08/2023,Phone,Electronics,-2,1499,Card,Delivered,4,False
+908,Donald Bryant,Female,30,Ahmedabad,Rajasthan,01-20-2023,Monitor,Electronics,-2,1499,UPI,Delivered,8,False
+909,Melissa Carlson,Female,30,Mumbai,Gujarat,2023-09-26,Monitor,Electronics,0,599,Crypto,,3,False
+910,Christopher Martin,Unknown,,Mumbai,Maharashtra,26/02/2023,Monitor,Electronics,0,1499,Cash,Delivered,4,True
+911,Meredith Francis,Unknown,30,Mumbai,Gujarat,01-01-2023,Laptop,Electronics,3,599,,Pending,5,False
+912,Emily Wilcox,Unknown,22,Jaipur,Rajasthan,2023-07-06,Tablet,Electronics,-2,1499,Cash,Cancelled,,
+913,Mr. Mark Carter,F,150,Bengaluru,Maharashtra,19/02/2024,Tablet,Electronics,2,29999,Card,,3,True
+914,Michelle Rodriguez,Male,150,Delhi,Delhi,03-08-2023,Phone,Electronics,0,599,UPI,Cancelled,5,
+915,Mike Smith,F,30,Jaipur,Delhi,2023-08-31,Keyboard,Accessories,2,-500,Crypto,Cancelled,-1,False
+916,Tanya Frazier,M,22,Ahmedabad,Rajasthan,03/04/2024,Tablet,Electronics,0,-500,Crypto,Delivered,4,
+917,Michael Brooks,Unknown,22,Bengaluru,Rajasthan,05-21-2023,Mouse,Accessories,2,-500,,Delivered,4,False
+918,,F,-5,Ahmedabad,,2024-01-20,Printer,Electronics,-2,29999,Card,Pending,3,True
+919,Christian Woodard,F,22,Bengaluru,Gujarat,20/10/2023,Keyboard,Accessories,-2,29999,Cash,Pending,5,
+920,Sara Rosales,Female,30,Jaipur,Karnataka,05-18-2023,Phone,Electronics,2,29999,UPI,Pending,5,True
+921,Randy Browning,Female,30,Bengaluru,Rajasthan,2023-05-19,Laptop,Electronics,1,29999,,Cancelled,5,True
+922,Amy Thompson,Female,-5,Bengaluru,Maharashtra,29/04/2024,Monitor,Electronics,3,599,,Delivered,5,True
+923,Sara Blankenship,Female,,Mumbai,Rajasthan,01-10-2024,Monitor,Electronics,-2,599,,,5,
+924,Maria Brown,M,30,Mumbai,Maharashtra,2023-11-21,Keyboard,Accessories,2,-500,Card,,4,
+925,William Williams,Unknown,30,Ahmedabad,Rajasthan,07/01/2024,,Electronics,0,1499,,Pending,4,True
+926,Dr. Cynthia Bolton,Female,41,Jaipur,Maharashtra,10-19-2023,Headphones,Accessories,2,1499,,Pending,3,True
+927,Justin Brown,Female,-5,Ahmedabad,Rajasthan,2023-02-06,Printer,Electronics,-2,1499,,Delivered,-1,True
+928,,Male,22,Jaipur,Rajasthan,13/07/2023,Printer,Electronics,2,1499,UPI,Cancelled,4,
+929,Patrick Buchanan,Male,22,Bengaluru,Maharashtra,11-04-2023,Laptop,Electronics,1,1499,Card,,-1,False
+930,Christie Thompson,Unknown,41,,Gujarat,2024-02-22,Mouse,Accessories,2,1499,UPI,Cancelled,-1,True
+931,Abigail Gonzales,Male,150,Mumbai,Rajasthan,11/01/2023,Laptop,Electronics,-2,-500,Card,Delivered,,True
+932,Ryan Johnson,M,-5,Delhi,Maharashtra,01-13-2023,Keyboard,Accessories,3,1499,,,3,False
+933,Trevor Arnold,Female,22,Mumbai,Maharashtra,2023-03-28,Phone,Electronics,1,29999,UPI,Cancelled,3,True
+934,Meghan Jenkins,Female,-5,Bengaluru,Maharashtra,06/11/2023,Mouse,Accessories,-2,1499,,,4,
+935,,F,41,Mumbai,Rajasthan,12-18-2023,Monitor,Electronics,3,-500,,Cancelled,5,
+936,David Johnson,Male,,Delhi,Delhi,2024-02-13,Phone,Electronics,3,1499,,,8,True
+937,Ryan Odonnell,Unknown,30,Jaipur,Maharashtra,27/02/2023,Printer,Electronics,2,1499,,Cancelled,5,False
+938,Ashley Gordon,M,150,Mumbai,Delhi,08-06-2023,Headphones,Accessories,2,-500,,,-1,
+939,Megan Walters,M,22,Bengaluru,Gujarat,2023-09-10,Keyboard,Accessories,-2,1499,,Delivered,4,False
+940,Robert Lee PhD,Male,41,Bengaluru,Gujarat,02/01/2023,Keyboard,Accessories,2,599,UPI,Cancelled,5,True
+941,Karen Lee,Female,150,Ahmedabad,Delhi,05-31-2023,Headphones,Accessories,2,1499,UPI,Pending,3,
+942,Carrie Lawson,M,22,Ahmedabad,Maharashtra,2023-12-27,Mouse,Accessories,1,599,,Delivered,8,
+943,Eric Mclean,Male,30,Mumbai,Delhi,21/03/2024,Mouse,,1,1499,UPI,Delivered,-1,False
+944,Kimberly Andrews,M,30,Bengaluru,Maharashtra,03-18-2023,Mouse,Accessories,0,-500,,Cancelled,8,
+945,Stephanie Mueller,Unknown,22,Delhi,,2023-12-22,Laptop,Electronics,1,599,Crypto,Pending,-1,True
+946,Larry Brooks,M,-5,Bengaluru,Maharashtra,06/01/2023,Printer,Electronics,-2,29999,,Pending,8,True
+947,Darren Clark,F,-5,Delhi,Delhi,05-20-2023,Phone,Electronics,0,599,Card,,4,
+948,Nathaniel Newton,M,-5,Mumbai,Gujarat,2024-05-14,Phone,Electronics,0,1499,UPI,Cancelled,8,True
+949,Jessica Powell,Male,,Jaipur,Maharashtra,19/05/2023,Phone,Electronics,-2,29999,UPI,Pending,5,True
+950,Kayla Pierce,Male,30,Bengaluru,Rajasthan,10-05-2023,Phone,Electronics,3,1499,Crypto,Pending,,
+901,Ryan Miller,Female,41,Jaipur,Karnataka,2024-04-20,Laptop,Electronics,-2,599,Crypto,,3,True
+902,,Unknown,22,Mumbai,Maharashtra,11/06/2023,Phone,Electronics,0,1499,Cash,,5,True
+903,Kelly Murphy,Unknown,-5,Bengaluru,Rajasthan,12-26-2023,Phone,Electronics,-2,1499,UPI,,8,
+904,Christian Collins,Unknown,30,Delhi,Gujarat,2024-03-20,Laptop,Electronics,1,599,,Pending,4,
+905,Gina Stanley,Female,150,Bengaluru,Karnataka,01/12/2023,Mouse,Accessories,-2,29999,,Pending,5,False
+906,Roger Frank,Male,-5,Delhi,Delhi,07-04-2023,Printer,Electronics,-2,599,Card,,3,True
+907,,F,22,Ahmedabad,Rajasthan,2023-03-15,Monitor,Electronics,0,29999,Card,Cancelled,4,True
+908,Amy May,Unknown,22,Jaipur,Delhi,24/05/2023,Tablet,Electronics,0,29999,,Cancelled,8,
+909,Christina Adams,Male,150,Ahmedabad,Rajasthan,04-18-2024,Mouse,Accessories,3,29999,,,-1,
+910,Danielle Oneill,Unknown,150,Bengaluru,Maharashtra,2023-03-08,Headphones,Accessories,3,599,,,-1,False
+911,Jerry Cain,F,22,,Delhi,15/05/2023,Laptop,Electronics,-2,599,Card,Delivered,5,False
+912,Jessica Williams,Male,,Delhi,Gujarat,03-23-2023,,Electronics,0,599,Cash,,8,
+913,Brittany Brooks,Male,22,Delhi,Rajasthan,2023-10-01,Headphones,Accessories,0,-500,Card,,5,True
+914,Mark Torres,F,-5,Delhi,Gujarat,12/06/2023,Tablet,Electronics,1,29999,,Delivered,-1,True
+915,Erin Scott,Female,30,Mumbai,Karnataka,04-30-2024,Headphones,Accessories,1,-500,UPI,Cancelled,8,False
+916,April Ross,Female,22,Ahmedabad,Maharashtra,2023-04-20,Laptop,Electronics,3,1499,UPI,Pending,3,False
+917,Cindy Gomez,Unknown,-5,Ahmedabad,Karnataka,27/07/2023,Phone,Electronics,2,29999,Card,Delivered,3,False
+918,Jean Becker,Female,30,Mumbai,Gujarat,06-25-2023,Monitor,Electronics,0,-500,Crypto,Pending,8,False
+919,,Male,150,Bengaluru,Delhi,2024-04-12,Printer,Electronics,1,1499,Cash,Cancelled,,True
+920,Jennifer Garza,Female,-5,Mumbai,Rajasthan,19/03/2023,Headphones,Accessories,0,29999,Crypto,Delivered,8,True
+921,James Morrison,F,22,Jaipur,Delhi,11-21-2023,Headphones,Accessories,2,-500,,Pending,-1,False
+922,John Olsen,Female,30,Bengaluru,,2023-04-21,Tablet,Electronics,1,29999,Cash,Delivered,5,False
+923,Chad King,M,-5,Ahmedabad,Gujarat,15/09/2023,Phone,Electronics,3,29999,Crypto,,-1,False
+924,Matthew Scott,M,-5,Mumbai,Delhi,02-28-2023,Mouse,Accessories,-2,1499,Crypto,,8,False
+925,Joshua Davis,Unknown,,Bengaluru,Rajasthan,2024-03-08,Printer,Electronics,1,599,UPI,Delivered,-1,False
+926,Jason Ferguson,F,150,Jaipur,Gujarat,23/02/2023,Headphones,Accessories,-2,599,,Cancelled,8,True
+927,Tamara Thomas,F,-5,Jaipur,Delhi,04-25-2023,Headphones,Accessories,0,599,Cash,,8,
+928,Heidi Lucas,Male,41,Delhi,Karnataka,2023-12-27,Printer,Electronics,3,29999,,Cancelled,5,False
+929,Ashley Campbell,Male,-5,Jaipur,Rajasthan,11/12/2023,Keyboard,Accessories,1,1499,Cash,Cancelled,5,True
+930,Renee Lynn,Female,150,Ahmedabad,Delhi,05-06-2024,Printer,Electronics,-2,-500,UPI,,4,
+931,Sandra Houston,M,41,Bengaluru,Delhi,2023-07-19,Mouse,Accessories,0,1499,UPI,Pending,-1,True
+932,Kayla Harris,Unknown,150,Delhi,Maharashtra,20/11/2023,Printer,Electronics,2,599,UPI,Delivered,8,True
+933,Justin Ward,Male,150,Bengaluru,Rajasthan,11-18-2023,Mouse,Accessories,-2,-500,UPI,Pending,8,
+934,John Manning,Female,30,Delhi,Maharashtra,2023-11-20,Tablet,,2,1499,,,5,
+935,Chad Brown,Male,30,Jaipur,Karnataka,27/01/2023,Monitor,Electronics,1,599,,Delivered,3,True
+936,,Female,22,Jaipur,Gujarat,05-25-2023,Monitor,Electronics,3,1499,,Delivered,8,True
+937,Douglas Escobar,M,22,Delhi,Gujarat,2023-07-31,Phone,Electronics,0,29999,,,4,True
+938,Vanessa Bryant,Female,,Bengaluru,Karnataka,02/06/2023,Laptop,Electronics,1,599,Cash,Cancelled,,False
+939,Courtney Nichols,Female,150,Mumbai,Rajasthan,11-11-2023,Laptop,Electronics,2,599,Crypto,Delivered,-1,
+940,Kelli Erickson,Female,41,Jaipur,Delhi,2024-01-25,Mouse,Accessories,1,29999,Card,Pending,3,
+941,Samuel Brown,Unknown,41,Ahmedabad,Delhi,21/12/2023,Mouse,Accessories,1,29999,,Cancelled,8,
+942,Shelby Holland,M,150,,Gujarat,02-19-2024,Headphones,Accessories,2,29999,Card,Pending,5,False
+943,Connie Cardenas,Female,30,Ahmedabad,Gujarat,2023-02-22,Monitor,Electronics,0,-500,Crypto,Cancelled,5,
+944,Anthony Pennington,M,30,Bengaluru,Maharashtra,25/02/2023,Printer,Electronics,3,599,,Pending,3,
+945,Daniel Rios,Unknown,150,Bengaluru,Maharashtra,05-10-2023,Printer,Electronics,0,599,UPI,Pending,5,False
+946,Jordan Carlson,Unknown,30,Jaipur,Delhi,2024-02-09,Mouse,Accessories,3,29999,Card,Cancelled,3,True
+947,Taylor French,Unknown,30,Ahmedabad,Karnataka,13/06/2023,Laptop,Electronics,3,1499,Crypto,Delivered,8,False
+948,Brett York,F,30,Jaipur,Karnataka,11-05-2023,Keyboard,Accessories,3,599,Crypto,,8,False
+949,Jessica Craig,Female,30,Jaipur,,2024-02-21,,Electronics,0,-500,UPI,Cancelled,8,True
+950,Heidi Martin,Female,150,Mumbai,Karnataka,05/03/2023,Headphones,Accessories,0,1499,Crypto,Delivered,5,True
+508,Susan Turner,Unknown,22,Bengaluru,Karnataka,02/12/2023,Mouse,Accessories,1,1499,Cash,Pending,3,False
+819,Alexis Lopez DVM,M,,Ahmedabad,Rajasthan,2024-01-19,Headphones,Accessories,1,1499,,,4,False
+453,Jason Roberts,Female,30,Mumbai,Rajasthan,2023-04-05,Laptop,Electronics,2,1499,,Delivered,3,True
+369,Carrie Martinez MD,Female,150,Bengaluru,Rajasthan,2023-12-06,Printer,,1,1499,Crypto,,8,True
+243,Daniel Ford,Unknown,22,Bengaluru,,2023-05-24,Printer,Electronics,2,1499,,Delivered,8,
+930,Christie Thompson,Unknown,41,,Gujarat,2024-02-22,Mouse,Accessories,2,1499,UPI,Cancelled,-1,True
+263,Robert Austin,F,-5,Delhi,Karnataka,02-20-2024,Tablet,Electronics,2,1499,Card,Delivered,-1,False
+811,Betty Ayala,Unknown,-5,Ahmedabad,Delhi,08/03/2023,Keyboard,Accessories,-2,29999,Crypto,Pending,-1,
+319,,Male,22,Mumbai,Delhi,13/06/2023,Monitor,Electronics,0,1499,,Delivered,-1,True
+50,William Larson,Female,22,Ahmedabad,Gujarat,12-22-2023,Mouse,Accessories,3,-500,,Delivered,4,False
+447,Dean Parker,F,150,Mumbai,Gujarat,2023-09-13,Mouse,Accessories,3,29999,Crypto,Delivered,8,True
+143,David Hunter,Female,,Delhi,Karnataka,09-28-2023,Printer,Electronics,2,29999,UPI,,5,
+919,,Male,150,Bengaluru,Delhi,2024-04-12,Printer,Electronics,1,1499,Cash,Cancelled,,True
+346,Stephanie Smith DDS,Unknown,150,Delhi,Maharashtra,30/08/2023,Mouse,Accessories,1,1499,Cash,Pending,5,False
+922,John Olsen,Female,30,Bengaluru,,2023-04-21,Tablet,Electronics,1,29999,Cash,Delivered,5,False
+134,Michael Wade,F,30,Jaipur,Gujarat,11-06-2023,Headphones,Accessories,1,29999,,Delivered,-1,
+105,Pamela Harrell,Male,41,Delhi,Gujarat,2023-07-28,Monitor,Electronics,0,1499,Cash,Delivered,5,
+7,Jose Mitchell,Unknown,22,Bengaluru,Delhi,01/07/2023,Keyboard,Accessories,-2,1499,Card,,8,False
+601,Jonathan Horton,F,-5,Delhi,Gujarat,16/03/2023,Keyboard,Accessories,3,1499,,Pending,5,False
+497,Deborah Jackson,M,22,Delhi,Delhi,11-16-2023,Mouse,Accessories,3,1499,,Delivered,3,
+703,Michele Lewis,M,-5,Ahmedabad,Maharashtra,15/01/2023,,Electronics,-2,599,Cash,Delivered,,
+473,Brandy Huffman,M,30,Jaipur,Gujarat,02-08-2024,Tablet,Electronics,3,1499,Cash,Delivered,8,
+599,Amber Mclean,F,150,Mumbai,Gujarat,01-05-2024,Headphones,Accessories,2,29999,Card,Delivered,5,True
+503,Cynthia Norman,F,22,Jaipur,Delhi,09-14-2023,Headphones,Accessories,-2,29999,Cash,,8,
+434,Lauren Kent,F,22,,Karnataka,07-28-2023,Phone,Electronics,3,29999,UPI,Cancelled,-1,
+120,Stephanie Jones,F,-5,Jaipur,Delhi,2024-03-21,Mouse,Accessories,1,599,,Pending,8,False
+109,Melissa Shelton,Female,22,Mumbai,Delhi,05/12/2023,Laptop,Electronics,-2,29999,UPI,Pending,5,True
+648,Jason Wright,M,22,Mumbai,,2023-09-21,Keyboard,Accessories,1,-500,UPI,Pending,8,False
+590,Alexander Harris,Unknown,30,Jaipur,Karnataka,10-22-2023,Mouse,Accessories,2,29999,UPI,Delivered,5,True
+375,Elijah Rodriguez,M,30,Ahmedabad,Rajasthan,2024-04-04,Mouse,Accessories,3,1499,Card,Delivered,8,True
+911,Meredith Francis,Unknown,30,Mumbai,Gujarat,01-01-2023,Laptop,Electronics,3,599,,Pending,5,False
+719,Robert Smith,Male,22,Ahmedabad,Gujarat,01-27-2023,Tablet,Electronics,0,29999,UPI,,8,False
+745,Daniel Smith,Male,22,Mumbai,Karnataka,12/03/2024,Printer,Electronics,3,599,Crypto,Pending,3,False
+495,Alexander Stephenson,Female,22,Mumbai,Gujarat,2023-11-12,Keyboard,Accessories,3,599,UPI,,8,False
+405,Melissa Lopez,M,41,Mumbai,,2023-05-07,Keyboard,Accessories,2,29999,,,8,False
+275,Jonathan Wilson,Male,150,Bengaluru,Rajasthan,12-13-2023,Mouse,Accessories,-2,1499,,Cancelled,4,
+79,Miguel Russell,M,41,Mumbai,Rajasthan,29/08/2023,Tablet,Electronics,2,29999,,,5,
+722,Heather Lane,Unknown,-5,Delhi,Karnataka,04-09-2023,Headphones,Accessories,2,29999,Crypto,,,True
+645,Donna Armstrong,F,41,Mumbai,Delhi,2023-03-16,Monitor,Electronics,-2,1499,Crypto,Delivered,3,
+615,Logan Caldwell,Male,22,Ahmedabad,Delhi,2024-04-01,Headphones,,3,599,UPI,Pending,5,True
+873,Mary Murray,M,-5,Mumbai,Gujarat,2024-02-12,Phone,Electronics,3,599,UPI,Delivered,3,True
+692,Antonio Brown,Unknown,150,Ahmedabad,Rajasthan,04-09-2024,Keyboard,Accessories,1,-500,Card,Cancelled,8,
+91,Stacy Sutton,Female,,Jaipur,Gujarat,17/12/2023,Monitor,Electronics,1,599,,Pending,5,True
+102,,Male,150,Bengaluru,Maharashtra,2023-04-30,Headphones,Accessories,-2,1499,,Delivered,8,
+95,Robert Collins,F,41,Ahmedabad,Maharashtra,04-28-2024,Tablet,Electronics,0,29999,Card,,,False
+578,,Female,150,Ahmedabad,Delhi,02-05-2023,Headphones,Accessories,0,599,Card,,4,
+538,Joanna Sharp,Unknown,-5,Bengaluru,Maharashtra,20/03/2023,Keyboard,Accessories,3,1499,UPI,Pending,4,
+42,Angela Anderson,M,30,Bengaluru,Karnataka,2023-04-09,Printer,Electronics,3,-500,Crypto,Delivered,5,False
+454,Justin Decker,F,22,Jaipur,Gujarat,24/04/2024,Headphones,Accessories,-2,599,UPI,Cancelled,-1,True
+946,Jordan Carlson,Unknown,30,Jaipur,Delhi,2024-02-09,Mouse,Accessories,3,29999,Card,Cancelled,3,True
+714,,Male,-5,Bengaluru,Rajasthan,2023-02-10,Monitor,Electronics,1,-500,UPI,Delivered,4,
+35,Michael Garcia,Female,30,Ahmedabad,Rajasthan,03-21-2023,Keyboard,Accessories,2,29999,,Pending,5,True
+640,Jeffrey Shepherd,M,-5,Jaipur,Rajasthan,11/11/2023,Phone,Electronics,2,599,,Cancelled,5,
+36,Timothy Oliver,M,22,Ahmedabad,Delhi,2024-02-08,Phone,Electronics,2,-500,Cash,Cancelled,4,True
+149,Kevin Miller,M,150,Bengaluru,Rajasthan,02-02-2023,Phone,Electronics,-2,1499,,Pending,5,False
+456,Jack Brown,Male,22,Mumbai,Maharashtra,2024-03-05,Mouse,Accessories,0,-500,Crypto,Cancelled,,
+886,Derek Peterson,Male,-5,Delhi,Gujarat,21/05/2023,Laptop,Electronics,1,599,Card,Cancelled,-1,False
+678,Michael Ross DVM,M,-5,Mumbai,Karnataka,2024-05-11,Monitor,Electronics,1,-500,Crypto,Cancelled,3,False
+487,Ashley Garrison,F,150,Bengaluru,Karnataka,31/01/2024,Monitor,Electronics,-2,1499,UPI,Delivered,8,False
+686,Mrs. Lori Watson,M,-5,Delhi,Maharashtra,07-30-2023,Tablet,Electronics,2,29999,Cash,Pending,3,False
+308,Julie Benson,Unknown,150,Jaipur,Delhi,05-07-2023,Keyboard,Accessories,-2,-500,Cash,Pending,4,True
+239,Michael Martin,Female,-5,Mumbai,Gujarat,03-16-2023,Phone,Electronics,3,-500,UPI,Cancelled,5,True
+396,Erika Carroll,M,-5,Ahmedabad,Gujarat,2024-04-11,Monitor,Electronics,0,29999,UPI,,3,
+735,Suzanne Miller,F,150,Bengaluru,Gujarat,2023-11-26,Keyboard,Accessories,3,-500,Card,Cancelled,3,True
+823,Clinton Coleman,Female,30,Mumbai,Delhi,25/01/2023,Printer,Electronics,2,599,UPI,,3,True
+813,Mary Molina,M,-5,Bengaluru,Rajasthan,2024-04-11,Headphones,Accessories,1,29999,,,5,
+465,Christine Cook,M,30,,Maharashtra,2023-03-19,Laptop,Electronics,0,29999,,Cancelled,8,
+817,Cole Manning,Female,150,Jaipur,Gujarat,26/03/2023,Monitor,Electronics,1,599,,,,False
+529,Adam Ortiz,F,-5,Ahmedabad,Delhi,16/10/2023,Headphones,Accessories,-2,1499,,Cancelled,4,True
+18,Michael Jenkins,F,30,Jaipur,Rajasthan,2023-10-11,Keyboard,Accessories,1,1499,UPI,Delivered,5,True
+710,David Maxwell,Unknown,30,Delhi,Maharashtra,04-09-2024,Headphones,Accessories,2,-500,Cash,Delivered,-1,True
+371,Dr. Jessica Huang,M,150,Ahmedabad,Rajasthan,02-10-2023,Headphones,Accessories,0,-500,Cash,Delivered,8,
+242,Jeremy Peters,Unknown,30,Ahmedabad,Maharashtra,04-13-2023,Headphones,Accessories,3,-500,Crypto,Pending,5,False
+915,Erin Scott,Female,30,Mumbai,Karnataka,04-30-2024,Headphones,Accessories,1,-500,UPI,Cancelled,8,False
+458,Sherri Foster,Male,-5,Mumbai,Maharashtra,10-04-2023,Keyboard,Accessories,0,29999,Card,Cancelled,3,True
+66,Miguel West,Unknown,-5,Mumbai,Maharashtra,2023-10-09,Tablet,Electronics,3,1499,UPI,Pending,5,True
+192,Kimberly Lee,Female,22,Bengaluru,Delhi,2023-11-12,Keyboard,Accessories,2,599,UPI,,5,
+839,Joy Jackson,M,-5,Mumbai,Gujarat,03-31-2023,Monitor,Electronics,3,-500,Crypto,,3,False
+332,Stacy Gonzalez,Male,30,Mumbai,Gujarat,09-06-2023,Headphones,Accessories,2,-500,UPI,,5,
+639,Mrs. Cynthia Little,M,-5,Mumbai,Delhi,2023-05-25,Tablet,Electronics,1,1499,Card,Pending,4,
+256,Rita Mcclure,Male,30,Mumbai,Delhi,03/05/2023,Monitor,Electronics,-2,-500,,Pending,-1,False
+743,Tamara Lopez,M,30,Delhi,Karnataka,12-19-2023,Headphones,Accessories,2,-500,,,4,
+757,Eric Fisher,Male,41,Jaipur,Maharashtra,21/01/2024,Printer,Electronics,0,-500,UPI,,3,False
+758,Kayla White,Male,41,Bengaluru,Karnataka,11-21-2023,Keyboard,Accessories,1,1499,Crypto,Pending,5,
+902,,Unknown,22,Mumbai,Maharashtra,11/06/2023,Phone,Electronics,0,1499,Cash,,5,True
+943,Connie Cardenas,Female,30,Ahmedabad,Gujarat,2023-02-22,Monitor,Electronics,0,-500,Crypto,Cancelled,5,
+464,,Female,22,Mumbai,Maharashtra,05-11-2024,Laptop,Electronics,2,-500,,Delivered,4,True
+844,Aaron Morton,Male,22,Jaipur,Gujarat,07/05/2023,Mouse,Accessories,0,599,Crypto,Pending,8,True
+574,Cody Harris,Unknown,30,Mumbai,Maharashtra,17/12/2023,Headphones,,2,599,UPI,Delivered,3,
+528,Jessica Carney,M,150,Mumbai,Gujarat,2023-02-25,Phone,Electronics,-2,29999,Cash,Cancelled,4,
+655,John Kennedy,Male,22,Jaipur,Rajasthan,29/04/2023,Mouse,Accessories,0,599,Card,,-1,
+190,James Phillips,M,41,Delhi,Maharashtra,21/10/2023,Printer,Electronics,1,29999,,Delivered,,False
+518,George Thomas,M,150,Delhi,Gujarat,01-13-2023,,Accessories,1,29999,Cash,Pending,3,True
+907,,F,22,Ahmedabad,Rajasthan,2023-03-15,Monitor,Electronics,0,29999,Card,Cancelled,4,True
+415,Colin Mathews,Unknown,150,Jaipur,Delhi,06/04/2023,Mouse,Accessories,0,29999,,Delivered,8,
+672,Alicia Butler,Female,41,Bengaluru,Delhi,2023-05-17,Monitor,Electronics,0,1499,UPI,Pending,4,True
+560,Jamie Mckay,Female,30,Ahmedabad,Karnataka,07-16-2023,Tablet,Electronics,1,-500,,Pending,-1,False
+594,Christine Garcia,F,30,Ahmedabad,,2023-12-21,Laptop,Electronics,-2,599,,Cancelled,5,False
+259,Chase Hill,M,-5,Ahmedabad,Gujarat,01/12/2023,,Accessories,0,1499,UPI,Delivered,4,False
+155,Heather Marshall,Unknown,41,,Rajasthan,03-17-2024,Laptop,Electronics,3,-500,,,8,False

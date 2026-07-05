@@ -1,0 +1,6 @@
+order_id,customer_name,gender,age,city,state,order_date,product,category,quantity,unit_price,payment_mode,delivery_status,rating,returned
+101,Rahul Sharma,Male,30,Jaipur,Rajasthan,2026-07-01,Laptop,Electronics,2,62000,UPI,Delivered,5,false
+350,Priya Verma,Female,27,Delhi,Delhi,2026-07-02,Headphones,Electronics,1,2500,Credit Card,Delivered,4,false
+720,Amit Singh,Male,35,Lucknow,Uttar Pradesh,2026-07-03,Office Chair,Furniture,1,8500,Cash on Delivery,Shipped,5,false
+951,Neha Gupta,Female,29,Mumbai,Maharashtra,2026-07-04,Smartwatch,Electronics,1,12000,Debit Card,Processing,4,false
+952,Karan Mehta,Male,40,Pune,Maharashtra,2026-07-04,Microwave Oven,Home Appliances,1,15000,UPI,Processing,5,false
